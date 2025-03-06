@@ -6,7 +6,7 @@
 --     priority = 1000,
 --     opts = function()
 --       return {
---         transparent = false,
+--         transparent = true,
 --       }
 --     end,
 --   },
@@ -19,25 +19,59 @@
 --   },
 -- }
 
-return {
-  -- add tokyonight
-  {
-    "folke/tokyonight.nvim",
-    lazy = true,
-    opts = {
-      style = "night",
-    },
-  },
+-- return {
+--   {
+--     "navarasu/onedark.nvim",
+--     opts = {
+--       style = "warmer",
+--     },
+--   },
+--   {
+--     "LazyVim/LazyVim",
+--     opts = {
+--       colorscheme = "onedark",
+--     },
+--   },
+-- }
 
-  -- Configure LazyVim to load gruvbox
-  {
-    "LazyVim/LazyVim",
-    opts = {
-      colorscheme = "tokyonight",
-    },
-  },
+return {
+  "scottmckendry/cyberdream.nvim",
+  lazy = false,
+  priority = 1000,
+  config = function()
+    require("cyberdream").setup({
+      transparent = true,
+      italic_comments = false,
+      hide_fillchars = false,
+      borderless_telescope = { border = false, style = "nvchad" },
+      terminal_colors = true,
+      theme = {
+        variant = "light",
+      },
+    })
+    vim.cmd("colorscheme cyberdream")
+  end,
 }
 
+-- return {
+--   -- add tokyonight
+--   {
+--     "folke/tokyonight.nvim",
+--     lazy = true,
+--     opts = {
+--       style = "night",
+--     },
+--   },
+--
+--   -- Configure LazyVim to load gruvbox
+--   {
+--     "LazyVim/LazyVim",
+--     opts = {
+--       colorscheme = "tokyonight",
+--     },
+--   },
+-- }
+--
 --   {
 --     "catppuccin/nvim",
 --     name = "catppuccin",
