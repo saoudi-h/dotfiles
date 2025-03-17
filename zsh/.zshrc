@@ -145,6 +145,8 @@ eval "$(zoxide init --cmd cd zsh)"
 # -----------------------------------------------------
 alias c='clear'
 alias pn='pnpm'
+alias ld='lazydocker'
+alias lg='lazygit'
 alias open='xdg-open'
 alias nf='fastfetch'
 alias pf='fastfetch'
