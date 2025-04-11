@@ -1,0 +1,105 @@
+[2025-03-28 06:17:15.932]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-03-28 06:17:15.942]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-28 06:17:15.968]	Installing "tmux-yank"
+[2025-03-28 06:17:16.558]	  "tmux-yank" download success
+[2025-03-28 06:17:16.568]	Done.
+
+[2025-03-28 06:17:54.919]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-03-28 06:17:54.928]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-28 06:17:54.956]	Already installed "tmux-yank"
+[2025-03-28 06:17:54.965]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-28 06:17:54.982]	Updating all plugins!
+[2025-03-28 06:17:54.991]	
+[2025-03-28 06:17:55.392]	  "tmux-yank" update success
+[2025-03-28 06:17:55.401]	    | Déjà à jour.
+[2025-03-28 06:17:55.410]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-28 06:17:55.437]	Done.
+
+[2025-03-28 17:17:56.865]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-03-28 17:17:56.874]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-28 17:17:56.902]	Already installed "tmux-yank"
+[2025-03-28 17:17:56.911]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-28 17:17:56.928]	Updating all plugins!
+[2025-03-28 17:17:56.937]	
+[2025-03-28 17:17:57.332]	  "tmux-yank" update success
+[2025-03-28 17:17:57.341]	    | Déjà à jour.
+[2025-03-28 17:17:57.350]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-28 17:17:57.376]	Done.
+
+[2025-03-28 17:26:15.016]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-03-28 17:26:15.025]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-28 17:26:15.053]	Already installed "tmux-yank"
+[2025-03-28 17:26:15.062]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-28 17:26:15.080]	Updating all plugins!
+[2025-03-28 17:26:15.089]	
+[2025-03-28 17:26:15.472]	  "tmux-yank" update success
+[2025-03-28 17:26:15.480]	    | Déjà à jour.
+[2025-03-28 17:26:15.489]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-28 17:26:15.516]	Done.
+
+[2025-03-28 17:26:33.895]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-03-28 17:26:33.904]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-28 17:26:33.932]	Already installed "tmux-yank"
+[2025-03-28 17:26:33.942]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-28 17:26:33.959]	Updating all plugins!
+[2025-03-28 17:26:33.968]	
+[2025-03-28 17:26:34.356]	  "tmux-yank" update success
+[2025-03-28 17:26:34.365]	    | Déjà à jour.
+[2025-03-28 17:26:34.374]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-28 17:26:34.401]	Done.
+
+[2025-03-30 17:23:33.130]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-03-30 17:23:33.139]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-30 17:23:33.168]	Already installed "tmux-yank"
+[2025-03-30 17:23:33.177]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-30 17:23:33.194]	Updating all plugins!
+[2025-03-30 17:23:33.203]	
+[2025-03-30 17:23:33.915]	  "tmux-yank" update success
+[2025-03-30 17:23:33.924]	    | Déjà à jour.
+[2025-03-30 17:23:33.933]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-30 17:23:33.960]	Done.
+
+[2025-03-31 12:35:22.781]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-03-31 12:35:22.790]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-31 12:35:22.819]	Already installed "tmux-yank"
+[2025-03-31 12:35:22.828]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-31 12:35:22.845]	Updating all plugins!
+[2025-03-31 12:35:22.854]	
+[2025-03-31 12:35:23.274]	  "tmux-yank" update success
+[2025-03-31 12:35:23.282]	    | Déjà à jour.
+[2025-03-31 12:35:23.292]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-31 12:35:23.318]	Done.
+
+[2025-03-31 16:16:31.572]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-03-31 16:16:31.581]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-31 16:16:31.610]	Already installed "tmux-yank"
+[2025-03-31 16:16:31.619]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-31 16:16:31.636]	Updating all plugins!
+[2025-03-31 16:16:31.645]	
+[2025-03-31 16:16:32.090]	  "tmux-yank" update success
+[2025-03-31 16:16:32.099]	    | Déjà à jour.
+[2025-03-31 16:16:32.108]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-31 16:16:32.135]	Done.
+
+[2025-04-08 21:45:45.686]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-04-08 21:45:45.696]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-04-08 21:45:45.725]	Already installed "tmux-yank"
+[2025-04-08 21:45:45.734]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-04-08 21:45:45.752]	Updating all plugins!
+[2025-04-08 21:45:45.761]	
+[2025-04-08 21:45:46.197]	  "tmux-yank" update success
+[2025-04-08 21:45:46.206]	    | Déjà à jour.
+[2025-04-08 21:45:46.216]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-04-08 21:45:46.243]	Done.
+
+[2025-04-11 21:49:30.461]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-04-11 21:49:30.471]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-04-11 21:49:30.501]	Already installed "tmux-yank"
+[2025-04-11 21:49:30.510]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-04-11 21:49:30.528]	Updating all plugins!
+[2025-04-11 21:49:30.537]	
+[2025-04-11 21:49:30.956]	  "tmux-yank" update success
+[2025-04-11 21:49:30.965]	    | Déjà à jour.
+[2025-04-11 21:49:30.975]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-04-11 21:49:31.002]	Done.
+
