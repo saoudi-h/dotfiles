@@ -3,24 +3,19 @@
 # -----------------------------------------------------
 
 # -----------------------------------------------------
-# Pywal
+# Load zshrc.d from dots-hyprland
 # -----------------------------------------------------
-cat ~/.cache/wal/sequences
+
+source ~/.config/zshrc.d/auto-Hypr.sh    2>/dev/null || true
+source ~/.config/zshrc.d/dots-hyprland.zsh  2>/dev/null || true
+source ~/.config/zshrc.d/shortcuts.zsh      2>/dev/null || true
 
 # -----------------------------------------------------
 # Fastfetch
 # -----------------------------------------------------
-if [[ $(tty) == *"pts"* ]]; then
-    fastfetch --config examples/13
-else
-    echo
-    if [ -f /bin/qtile ]; then
-        echo "Start Qtile X11 with command Qtile"
-    fi
-    if [ -f /bin/hyprctl ]; then
-        echo "Start Hyprland with command Hyprland"
-    fi
-fi
+
+fastfetch --config ~/.config/fastfetch/config.jsonc
+
 
 
 
@@ -157,22 +152,7 @@ alias lt='eza -a --tree --level=1 --icons=always'
 alias shutdown='systemctl poweroff'
 alias v='$EDITOR'
 alias vim='$EDITOR'
-alias ts='~/.config/ml4w/scripts/snapshot.sh'
 alias wifi='nmtui'
-alias cleanup='~/.config/ml4w/scripts/cleanup.sh'
-
-# -----------------------------------------------------
-# ML4W Apps
-# -----------------------------------------------------
-alias ml4w='com.ml4w.welcome'
-alias ml4w-settings='com.ml4w.dotfilessettings'
-alias ml4w-hyprland='com.ml4w.hyprland.settings'
-alias ml4w-options='ml4w-hyprland-setup -m options'
-alias ml4w-sidebar='ags toggle sidebar'
-alias ml4w-diagnosis='~/.config/hypr/scripts/diagnosis.sh'
-alias ml4w-hyprland-diagnosis='~/.config/hypr/scripts/diagnosis.sh'
-alias ml4w-qtile-diagnosis='~/.config/ml4w/qtile/scripts/diagnosis.sh'
-alias ml4w-update='~/.config/ml4w/update.sh'
 
 
 # -----------------------------------------------------
@@ -184,9 +164,16 @@ alias update-grub='sudo grub-mkconfig -o /boot/grub/grub.cfg'
 # NVM
 # -----------------------------------------------------
 
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+# export NVM_DIR="$HOME/.nvm"
+# [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+# [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+
+# -----------------------------------------------------
+# FNM
+# -----------------------------------------------------
+
+eval "$(fnm env --use-on-cd --shell zsh)"
 
 # -----------------------------------------------------
 # PNPM
@@ -263,3 +250,12 @@ cf() {
      fi
   fi
 }
+
+[[ "$TERM_PROGRAM" == "kiro" ]] && . "$(kiro --locate-shell-integration-path zsh)"
+
+# bun completions
+[ -s "/home/hakim/.bun/_bun" ] && source "/home/hakim/.bun/_bun"
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
