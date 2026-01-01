@@ -1,105 +1,2040 @@
-[2025-03-28 06:17:15.932]	List of discovered tpm plugins: tmux-plugins/tmux-yank
-[2025-03-28 06:17:15.942]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
-[2025-03-28 06:17:15.968]	Installing "tmux-yank"
-[2025-03-28 06:17:16.558]	  "tmux-yank" download success
-[2025-03-28 06:17:16.568]	Done.
+[2025-08-20 16:43:49.542]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-08-20 16:43:49.550]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-08-20 16:43:49.581]	Already installed "tmux-yank"
+[2025-08-20 16:43:49.589]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-08-20 16:43:49.608]	Updating all plugins!
+[2025-08-20 16:43:49.616]	
+[2025-08-20 16:43:49.992]	  "tmux-yank" update fail
+[2025-08-20 16:43:50.000]	    | Already up to date.
+[2025-08-20 16:43:50.008]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-08-20 16:43:50.016]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-08-20 16:43:50.045]	Done.
 
-[2025-03-28 06:17:54.919]	List of discovered tpm plugins: tmux-plugins/tmux-yank
-[2025-03-28 06:17:54.928]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
-[2025-03-28 06:17:54.956]	Already installed "tmux-yank"
-[2025-03-28 06:17:54.965]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
-[2025-03-28 06:17:54.982]	Updating all plugins!
-[2025-03-28 06:17:54.991]	
-[2025-03-28 06:17:55.392]	  "tmux-yank" update success
-[2025-03-28 06:17:55.401]	    | Déjà à jour.
-[2025-03-28 06:17:55.410]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
-[2025-03-28 06:17:55.437]	Done.
+[2025-08-21 14:55:55.201]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-08-21 14:55:55.211]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-08-21 14:55:55.248]	Already installed "tmux-yank"
+[2025-08-21 14:55:55.258]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-08-21 14:55:55.280]	Updating all plugins!
+[2025-08-21 14:55:55.290]	
+[2025-08-21 14:55:55.663]	  "tmux-yank" update fail
+[2025-08-21 14:55:55.673]	    | Already up to date.
+[2025-08-21 14:55:55.682]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-08-21 14:55:55.692]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-08-21 14:55:55.730]	Done.
 
-[2025-03-28 17:17:56.865]	List of discovered tpm plugins: tmux-plugins/tmux-yank
-[2025-03-28 17:17:56.874]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
-[2025-03-28 17:17:56.902]	Already installed "tmux-yank"
-[2025-03-28 17:17:56.911]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
-[2025-03-28 17:17:56.928]	Updating all plugins!
-[2025-03-28 17:17:56.937]	
-[2025-03-28 17:17:57.332]	  "tmux-yank" update success
-[2025-03-28 17:17:57.341]	    | Déjà à jour.
-[2025-03-28 17:17:57.350]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
-[2025-03-28 17:17:57.376]	Done.
+[2025-08-21 23:17:13.064]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-08-21 23:17:13.073]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-08-21 23:17:13.107]	Already installed "tmux-yank"
+[2025-08-21 23:17:13.116]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-08-21 23:17:13.137]	Updating all plugins!
+[2025-08-21 23:17:13.146]	
+[2025-08-21 23:17:13.499]	  "tmux-yank" update fail
+[2025-08-21 23:17:13.508]	    | Already up to date.
+[2025-08-21 23:17:13.520]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-08-21 23:17:13.530]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-08-21 23:17:13.563]	Done.
 
-[2025-03-28 17:26:15.016]	List of discovered tpm plugins: tmux-plugins/tmux-yank
-[2025-03-28 17:26:15.025]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
-[2025-03-28 17:26:15.053]	Already installed "tmux-yank"
-[2025-03-28 17:26:15.062]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
-[2025-03-28 17:26:15.080]	Updating all plugins!
-[2025-03-28 17:26:15.089]	
-[2025-03-28 17:26:15.472]	  "tmux-yank" update success
-[2025-03-28 17:26:15.480]	    | Déjà à jour.
-[2025-03-28 17:26:15.489]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
-[2025-03-28 17:26:15.516]	Done.
+[2025-08-22 00:54:17.987]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-08-22 00:54:17.996]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-08-22 00:54:18.030]	Already installed "tmux-yank"
+[2025-08-22 00:54:18.040]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-08-22 00:54:18.060]	Updating all plugins!
+[2025-08-22 00:54:18.069]	
+[2025-08-22 00:54:18.427]	  "tmux-yank" update fail
+[2025-08-22 00:54:18.436]	    | Already up to date.
+[2025-08-22 00:54:18.445]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-08-22 00:54:18.459]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-08-22 00:54:18.495]	Done.
 
-[2025-03-28 17:26:33.895]	List of discovered tpm plugins: tmux-plugins/tmux-yank
-[2025-03-28 17:26:33.904]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
-[2025-03-28 17:26:33.932]	Already installed "tmux-yank"
-[2025-03-28 17:26:33.942]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
-[2025-03-28 17:26:33.959]	Updating all plugins!
-[2025-03-28 17:26:33.968]	
-[2025-03-28 17:26:34.356]	  "tmux-yank" update success
-[2025-03-28 17:26:34.365]	    | Déjà à jour.
-[2025-03-28 17:26:34.374]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
-[2025-03-28 17:26:34.401]	Done.
+[2025-08-22 18:47:27.850]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-08-22 18:47:27.860]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-08-22 18:47:27.895]	Already installed "tmux-yank"
+[2025-08-22 18:47:27.905]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-08-22 18:47:27.930]	Updating all plugins!
+[2025-08-22 18:47:27.940]	
+[2025-08-22 18:47:28.303]	  "tmux-yank" update fail
+[2025-08-22 18:47:28.312]	    | Already up to date.
+[2025-08-22 18:47:28.321]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-08-22 18:47:28.330]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-08-22 18:47:28.367]	Done.
 
-[2025-03-30 17:23:33.130]	List of discovered tpm plugins: tmux-plugins/tmux-yank
-[2025-03-30 17:23:33.139]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
-[2025-03-30 17:23:33.168]	Already installed "tmux-yank"
-[2025-03-30 17:23:33.177]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
-[2025-03-30 17:23:33.194]	Updating all plugins!
-[2025-03-30 17:23:33.203]	
-[2025-03-30 17:23:33.915]	  "tmux-yank" update success
-[2025-03-30 17:23:33.924]	    | Déjà à jour.
-[2025-03-30 17:23:33.933]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
-[2025-03-30 17:23:33.960]	Done.
+[2025-08-26 01:22:06.143]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-08-26 01:22:06.152]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-08-26 01:22:06.185]	Already installed "tmux-yank"
+[2025-08-26 01:22:06.193]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-08-26 01:22:06.213]	Updating all plugins!
+[2025-08-26 01:22:06.222]	
+[2025-08-26 01:22:06.578]	  "tmux-yank" update fail
+[2025-08-26 01:22:06.586]	    | Already up to date.
+[2025-08-26 01:22:06.594]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-08-26 01:22:06.603]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-08-26 01:22:06.641]	Done.
 
-[2025-03-31 12:35:22.781]	List of discovered tpm plugins: tmux-plugins/tmux-yank
-[2025-03-31 12:35:22.790]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
-[2025-03-31 12:35:22.819]	Already installed "tmux-yank"
-[2025-03-31 12:35:22.828]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
-[2025-03-31 12:35:22.845]	Updating all plugins!
-[2025-03-31 12:35:22.854]	
-[2025-03-31 12:35:23.274]	  "tmux-yank" update success
-[2025-03-31 12:35:23.282]	    | Déjà à jour.
-[2025-03-31 12:35:23.292]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
-[2025-03-31 12:35:23.318]	Done.
+[2025-08-26 01:22:22.207]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-08-26 01:22:22.217]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-08-26 01:22:22.252]	Already installed "tmux-yank"
+[2025-08-26 01:22:22.262]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-08-26 01:22:22.285]	Updating all plugins!
+[2025-08-26 01:22:22.294]	
+[2025-08-26 01:22:22.662]	  "tmux-yank" update fail
+[2025-08-26 01:22:22.673]	    | Already up to date.
+[2025-08-26 01:22:22.685]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-08-26 01:22:22.698]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-08-26 01:22:22.745]	Done.
 
-[2025-03-31 16:16:31.572]	List of discovered tpm plugins: tmux-plugins/tmux-yank
-[2025-03-31 16:16:31.581]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
-[2025-03-31 16:16:31.610]	Already installed "tmux-yank"
-[2025-03-31 16:16:31.619]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
-[2025-03-31 16:16:31.636]	Updating all plugins!
-[2025-03-31 16:16:31.645]	
-[2025-03-31 16:16:32.090]	  "tmux-yank" update success
-[2025-03-31 16:16:32.099]	    | Déjà à jour.
-[2025-03-31 16:16:32.108]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
-[2025-03-31 16:16:32.135]	Done.
+[2025-08-28 04:52:08.490]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-08-28 04:52:08.499]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-08-28 04:52:08.540]	Already installed "tmux-yank"
+[2025-08-28 04:52:08.551]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-08-28 04:52:08.577]	Updating all plugins!
+[2025-08-28 04:52:08.587]	
+[2025-08-28 04:52:08.941]	  "tmux-yank" update fail
+[2025-08-28 04:52:08.951]	    | Already up to date.
+[2025-08-28 04:52:08.962]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-08-28 04:52:08.974]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-08-28 04:52:09.012]	Done.
 
-[2025-04-08 21:45:45.686]	List of discovered tpm plugins: tmux-plugins/tmux-yank
-[2025-04-08 21:45:45.696]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
-[2025-04-08 21:45:45.725]	Already installed "tmux-yank"
-[2025-04-08 21:45:45.734]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
-[2025-04-08 21:45:45.752]	Updating all plugins!
-[2025-04-08 21:45:45.761]	
-[2025-04-08 21:45:46.197]	  "tmux-yank" update success
-[2025-04-08 21:45:46.206]	    | Déjà à jour.
-[2025-04-08 21:45:46.216]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
-[2025-04-08 21:45:46.243]	Done.
+[2025-08-28 06:19:12.038]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-08-28 06:19:12.048]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-08-28 06:19:12.086]	Already installed "tmux-yank"
+[2025-08-28 06:19:12.096]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-08-28 06:19:12.119]	Updating all plugins!
+[2025-08-28 06:19:12.128]	
+[2025-08-28 06:19:12.496]	  "tmux-yank" update fail
+[2025-08-28 06:19:12.506]	    | Already up to date.
+[2025-08-28 06:19:12.515]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-08-28 06:19:12.524]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-08-28 06:19:12.558]	Done.
 
-[2025-04-11 21:49:30.461]	List of discovered tpm plugins: tmux-plugins/tmux-yank
-[2025-04-11 21:49:30.471]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
-[2025-04-11 21:49:30.501]	Already installed "tmux-yank"
-[2025-04-11 21:49:30.510]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
-[2025-04-11 21:49:30.528]	Updating all plugins!
-[2025-04-11 21:49:30.537]	
-[2025-04-11 21:49:30.956]	  "tmux-yank" update success
-[2025-04-11 21:49:30.965]	    | Déjà à jour.
-[2025-04-11 21:49:30.975]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
-[2025-04-11 21:49:31.002]	Done.
+[2025-08-28 19:26:56.699]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-08-28 19:26:56.711]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-08-28 19:26:56.754]	Already installed "tmux-yank"
+[2025-08-28 19:26:56.764]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-08-28 19:26:56.784]	Updating all plugins!
+[2025-08-28 19:26:56.796]	
+[2025-08-28 19:26:57.156]	  "tmux-yank" update fail
+[2025-08-28 19:26:57.165]	    | Already up to date.
+[2025-08-28 19:26:57.173]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-08-28 19:26:57.182]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-08-28 19:26:57.214]	Done.
+
+[2025-08-29 03:41:13.054]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-08-29 03:41:13.065]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-08-29 03:41:13.103]	Already installed "tmux-yank"
+[2025-08-29 03:41:13.114]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-08-29 03:41:13.136]	Updating all plugins!
+[2025-08-29 03:41:13.146]	
+[2025-08-29 03:41:13.514]	  "tmux-yank" update fail
+[2025-08-29 03:41:13.524]	    | Already up to date.
+[2025-08-29 03:41:13.534]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-08-29 03:41:13.546]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-08-29 03:41:13.580]	Done.
+
+[2025-09-01 21:14:35.350]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-01 21:14:35.361]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-01 21:14:35.398]	Already installed "tmux-yank"
+[2025-09-01 21:14:35.409]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-01 21:14:35.439]	Updating all plugins!
+[2025-09-01 21:14:35.453]	
+[2025-09-01 21:14:35.846]	  "tmux-yank" update fail
+[2025-09-01 21:14:35.854]	    | Already up to date.
+[2025-09-01 21:14:35.863]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-01 21:14:35.872]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-01 21:14:35.905]	Done.
+
+[2025-09-03 04:15:46.764]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-03 04:15:46.774]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-03 04:15:46.813]	Already installed "tmux-yank"
+[2025-09-03 04:15:46.825]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-03 04:15:46.852]	Updating all plugins!
+[2025-09-03 04:15:46.863]	
+[2025-09-03 04:15:47.238]	  "tmux-yank" update fail
+[2025-09-03 04:15:47.250]	    | Already up to date.
+[2025-09-03 04:15:47.260]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-03 04:15:47.270]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-03 04:15:47.308]	Done.
+
+[2025-09-03 19:22:10.724]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-03 19:22:10.733]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-03 19:22:10.769]	Already installed "tmux-yank"
+[2025-09-03 19:22:10.778]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-03 19:22:10.799]	Updating all plugins!
+[2025-09-03 19:22:10.811]	
+[2025-09-03 19:22:11.189]	  "tmux-yank" update fail
+[2025-09-03 19:22:11.198]	    | Already up to date.
+[2025-09-03 19:22:11.207]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-03 19:22:11.218]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-03 19:22:11.256]	Done.
+
+[2025-09-05 04:01:48.311]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-05 04:01:48.321]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-05 04:01:48.356]	Already installed "tmux-yank"
+[2025-09-05 04:01:48.365]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-05 04:01:48.391]	Updating all plugins!
+[2025-09-05 04:01:48.401]	
+[2025-09-05 04:01:48.763]	  "tmux-yank" update fail
+[2025-09-05 04:01:48.773]	    | Already up to date.
+[2025-09-05 04:01:48.784]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-05 04:01:48.795]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-05 04:01:48.842]	Done.
+
+[2025-09-05 06:56:04.866]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-05 06:56:04.878]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-05 06:56:04.926]	Already installed "tmux-yank"
+[2025-09-05 06:56:04.938]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-05 06:56:04.963]	Updating all plugins!
+[2025-09-05 06:56:04.972]	
+[2025-09-05 06:56:05.350]	  "tmux-yank" update fail
+[2025-09-05 06:56:05.360]	    | Already up to date.
+[2025-09-05 06:56:05.369]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-05 06:56:05.379]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-05 06:56:05.411]	Done.
+
+[2025-09-05 09:35:10.676]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-05 09:35:10.686]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-05 09:35:10.725]	Already installed "tmux-yank"
+[2025-09-05 09:35:10.734]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-05 09:35:10.757]	Updating all plugins!
+[2025-09-05 09:35:10.768]	
+[2025-09-05 09:35:11.134]	  "tmux-yank" update fail
+[2025-09-05 09:35:11.144]	    | Already up to date.
+[2025-09-05 09:35:11.155]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-05 09:35:11.165]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-05 09:35:11.199]	Done.
+
+[2025-09-05 19:27:35.535]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-05 19:27:35.545]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-05 19:27:35.581]	Already installed "tmux-yank"
+[2025-09-05 19:27:35.590]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-05 19:27:35.611]	Updating all plugins!
+[2025-09-05 19:27:35.621]	
+[2025-09-05 19:27:36.009]	  "tmux-yank" update fail
+[2025-09-05 19:27:36.018]	    | Already up to date.
+[2025-09-05 19:27:36.027]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-05 19:27:36.036]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-05 19:27:36.071]	Done.
+
+[2025-09-05 21:06:21.172]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-05 21:06:21.183]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-05 21:06:21.220]	Already installed "tmux-yank"
+[2025-09-05 21:06:21.230]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-05 21:06:21.253]	Updating all plugins!
+[2025-09-05 21:06:21.264]	
+[2025-09-05 21:06:21.619]	  "tmux-yank" update fail
+[2025-09-05 21:06:21.630]	    | Already up to date.
+[2025-09-05 21:06:21.640]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-05 21:06:21.649]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-05 21:06:21.681]	Done.
+
+[2025-09-08 01:25:28.509]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-08 01:25:28.520]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-08 01:25:28.554]	Already installed "tmux-yank"
+[2025-09-08 01:25:28.564]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-08 01:25:28.587]	Updating all plugins!
+[2025-09-08 01:25:28.598]	
+[2025-09-08 01:25:28.958]	  "tmux-yank" update fail
+[2025-09-08 01:25:28.967]	    | Already up to date.
+[2025-09-08 01:25:28.975]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-08 01:25:28.985]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-08 01:25:29.017]	Done.
+
+[2025-09-08 06:14:12.283]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-08 06:14:12.295]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-08 06:14:12.332]	Already installed "tmux-yank"
+[2025-09-08 06:14:12.342]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-08 06:14:12.364]	Updating all plugins!
+[2025-09-08 06:14:12.375]	
+[2025-09-08 06:14:12.732]	  "tmux-yank" update fail
+[2025-09-08 06:14:12.743]	    | Already up to date.
+[2025-09-08 06:14:12.752]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-08 06:14:12.765]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-08 06:14:12.804]	Done.
+
+[2025-09-08 06:34:30.919]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-08 06:34:30.929]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-08 06:34:30.968]	Already installed "tmux-yank"
+[2025-09-08 06:34:30.978]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-08 06:34:31.003]	Updating all plugins!
+[2025-09-08 06:34:31.018]	
+[2025-09-08 06:34:31.394]	  "tmux-yank" update fail
+[2025-09-08 06:34:31.405]	    | Already up to date.
+[2025-09-08 06:34:31.417]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-08 06:34:31.430]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-08 06:34:31.469]	Done.
+
+[2025-09-08 09:37:11.010]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-08 09:37:11.022]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-08 09:37:11.063]	Already installed "tmux-yank"
+[2025-09-08 09:37:11.074]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-08 09:37:11.098]	Updating all plugins!
+[2025-09-08 09:37:11.108]	
+[2025-09-08 09:37:11.466]	  "tmux-yank" update fail
+[2025-09-08 09:37:11.478]	    | Already up to date.
+[2025-09-08 09:37:11.487]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-08 09:37:11.497]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-08 09:37:11.542]	Done.
+
+[2025-09-08 10:37:54.056]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-08 10:37:54.065]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-08 10:37:54.105]	Already installed "tmux-yank"
+[2025-09-08 10:37:54.121]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-08 10:37:54.158]	Updating all plugins!
+[2025-09-08 10:37:54.171]	
+[2025-09-08 10:37:54.531]	  "tmux-yank" update fail
+[2025-09-08 10:37:54.540]	    | Already up to date.
+[2025-09-08 10:37:54.549]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-08 10:37:54.558]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-08 10:37:54.595]	Done.
+
+[2025-09-09 00:58:47.780]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-09 00:58:47.790]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-09 00:58:47.833]	Already installed "tmux-yank"
+[2025-09-09 00:58:47.843]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-09 00:58:47.866]	Updating all plugins!
+[2025-09-09 00:58:47.875]	
+[2025-09-09 00:58:48.252]	  "tmux-yank" update fail
+[2025-09-09 00:58:48.263]	    | Already up to date.
+[2025-09-09 00:58:48.273]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-09 00:58:48.286]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-09 00:58:48.327]	Done.
+
+[2025-09-09 01:13:37.963]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-09 01:13:37.973]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-09 01:13:38.009]	Already installed "tmux-yank"
+[2025-09-09 01:13:38.019]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-09 01:13:38.049]	Updating all plugins!
+[2025-09-09 01:13:38.073]	
+[2025-09-09 01:13:38.438]	  "tmux-yank" update fail
+[2025-09-09 01:13:38.449]	    | Already up to date.
+[2025-09-09 01:13:38.460]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-09 01:13:38.472]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-09 01:13:38.506]	Done.
+
+[2025-09-10 08:06:45.650]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-10 08:06:45.659]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-10 08:06:45.694]	Already installed "tmux-yank"
+[2025-09-10 08:06:45.703]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-10 08:06:45.733]	Updating all plugins!
+[2025-09-10 08:06:45.744]	
+[2025-09-10 08:06:46.117]	  "tmux-yank" update fail
+[2025-09-10 08:06:46.126]	    | Already up to date.
+[2025-09-10 08:06:46.136]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-10 08:06:46.147]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-10 08:06:46.183]	Done.
+
+[2025-09-12 07:43:12.299]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-12 07:43:12.308]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-12 07:43:12.342]	Already installed "tmux-yank"
+[2025-09-12 07:43:12.351]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-12 07:43:12.372]	Updating all plugins!
+[2025-09-12 07:43:12.381]	
+[2025-09-12 07:43:12.740]	  "tmux-yank" update fail
+[2025-09-12 07:43:12.750]	    | Already up to date.
+[2025-09-12 07:43:12.760]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-12 07:43:12.771]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-12 07:43:12.812]	Done.
+
+[2025-09-14 14:45:30.150]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-14 14:45:30.159]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-14 14:45:30.193]	Already installed "tmux-yank"
+[2025-09-14 14:45:30.202]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-14 14:45:30.223]	Updating all plugins!
+[2025-09-14 14:45:30.232]	
+[2025-09-14 14:45:30.599]	  "tmux-yank" update fail
+[2025-09-14 14:45:30.608]	    | Already up to date.
+[2025-09-14 14:45:30.616]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-14 14:45:30.627]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-14 14:45:30.659]	Done.
+
+[2025-09-16 07:41:27.099]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-16 07:41:27.110]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-16 07:41:27.147]	Already installed "tmux-yank"
+[2025-09-16 07:41:27.157]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-16 07:41:27.178]	Updating all plugins!
+[2025-09-16 07:41:27.188]	
+[2025-09-16 07:41:27.567]	  "tmux-yank" update fail
+[2025-09-16 07:41:27.578]	    | Already up to date.
+[2025-09-16 07:41:27.590]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-16 07:41:27.603]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-16 07:41:27.639]	Done.
+
+[2025-09-17 11:45:43.696]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-17 11:45:43.706]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-17 11:45:43.743]	Already installed "tmux-yank"
+[2025-09-17 11:45:43.753]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-17 11:45:43.776]	Updating all plugins!
+[2025-09-17 11:45:43.785]	
+[2025-09-17 11:45:44.163]	  "tmux-yank" update fail
+[2025-09-17 11:45:44.173]	    | Already up to date.
+[2025-09-17 11:45:44.185]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-17 11:45:44.195]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-17 11:45:44.230]	Done.
+
+[2025-09-18 22:43:14.954]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-18 22:43:14.963]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-18 22:43:14.997]	Already installed "tmux-yank"
+[2025-09-18 22:43:15.006]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-18 22:43:15.026]	Updating all plugins!
+[2025-09-18 22:43:15.035]	
+[2025-09-18 22:43:15.392]	  "tmux-yank" update fail
+[2025-09-18 22:43:15.400]	    | Already up to date.
+[2025-09-18 22:43:15.408]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-18 22:43:15.417]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-18 22:43:15.448]	Done.
+
+[2025-09-19 10:17:11.010]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-19 10:17:11.020]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-19 10:17:11.057]	Already installed "tmux-yank"
+[2025-09-19 10:17:11.068]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-19 10:17:11.090]	Updating all plugins!
+[2025-09-19 10:17:11.100]	
+[2025-09-19 10:17:11.454]	  "tmux-yank" update fail
+[2025-09-19 10:17:11.463]	    | Already up to date.
+[2025-09-19 10:17:11.472]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-19 10:17:11.483]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-19 10:17:11.519]	Done.
+
+[2025-09-19 10:19:19.025]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-19 10:19:19.035]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-19 10:19:19.071]	Already installed "tmux-yank"
+[2025-09-19 10:19:19.082]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-19 10:19:19.111]	Updating all plugins!
+[2025-09-19 10:19:19.126]	
+[2025-09-19 10:19:19.514]	  "tmux-yank" update fail
+[2025-09-19 10:19:19.526]	    | Already up to date.
+[2025-09-19 10:19:19.537]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-19 10:19:19.547]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-19 10:19:19.591]	Done.
+
+[2025-09-21 10:27:13.973]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-21 10:27:13.983]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-21 10:27:14.024]	Already installed "tmux-yank"
+[2025-09-21 10:27:14.045]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-21 10:27:14.075]	Updating all plugins!
+[2025-09-21 10:27:14.087]	
+[2025-09-21 10:27:14.440]	  "tmux-yank" update fail
+[2025-09-21 10:27:14.450]	    | Already up to date.
+[2025-09-21 10:27:14.459]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-21 10:27:14.472]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-21 10:27:14.516]	Done.
+
+[2025-09-21 15:29:36.737]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-21 15:29:36.746]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-21 15:29:36.795]	Already installed "tmux-yank"
+[2025-09-21 15:29:36.809]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-21 15:29:36.841]	Updating all plugins!
+[2025-09-21 15:29:36.854]	
+[2025-09-21 15:29:37.239]	  "tmux-yank" update fail
+[2025-09-21 15:29:37.251]	    | Already up to date.
+[2025-09-21 15:29:37.261]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-21 15:29:37.271]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-21 15:29:37.308]	Done.
+
+[2025-09-21 15:36:05.056]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-21 15:36:05.070]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-21 15:36:05.105]	Already installed "tmux-yank"
+[2025-09-21 15:36:05.115]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-21 15:36:05.138]	Updating all plugins!
+[2025-09-21 15:36:05.149]	
+[2025-09-21 15:36:05.516]	  "tmux-yank" update fail
+[2025-09-21 15:36:05.525]	    | Already up to date.
+[2025-09-21 15:36:05.534]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-21 15:36:05.543]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-21 15:36:05.576]	Done.
+
+[2025-09-22 14:00:24.194]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-22 14:00:24.205]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-22 14:00:24.253]	Already installed "tmux-yank"
+[2025-09-22 14:00:24.265]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-22 14:00:24.299]	Updating all plugins!
+[2025-09-22 14:00:24.312]	
+[2025-09-22 14:00:24.709]	  "tmux-yank" update fail
+[2025-09-22 14:00:24.723]	    | Already up to date.
+[2025-09-22 14:00:24.735]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-22 14:00:24.747]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-22 14:00:24.803]	Done.
+
+[2025-09-23 12:21:50.198]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-23 12:21:50.210]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-23 12:21:50.255]	Already installed "tmux-yank"
+[2025-09-23 12:21:50.266]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-23 12:21:50.300]	Updating all plugins!
+[2025-09-23 12:21:50.317]	
+[2025-09-23 12:21:50.687]	  "tmux-yank" update fail
+[2025-09-23 12:21:50.698]	    | Already up to date.
+[2025-09-23 12:21:50.708]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-23 12:21:50.717]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-23 12:21:50.755]	Done.
+
+[2025-09-24 18:05:46.110]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-24 18:05:46.119]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-24 18:05:46.154]	Already installed "tmux-yank"
+[2025-09-24 18:05:46.163]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-24 18:05:46.184]	Updating all plugins!
+[2025-09-24 18:05:46.192]	
+[2025-09-24 18:05:46.965]	  "tmux-yank" update fail
+[2025-09-24 18:05:46.974]	    | Already up to date.
+[2025-09-24 18:05:46.982]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-24 18:05:46.991]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-24 18:05:47.023]	Done.
+
+[2025-09-24 18:46:42.793]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-24 18:46:42.802]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-24 18:46:42.839]	Already installed "tmux-yank"
+[2025-09-24 18:46:42.849]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-24 18:46:42.872]	Updating all plugins!
+[2025-09-24 18:46:42.881]	
+[2025-09-24 18:46:43.263]	  "tmux-yank" update fail
+[2025-09-24 18:46:43.273]	    | Already up to date.
+[2025-09-24 18:46:43.282]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-24 18:46:43.292]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-24 18:46:43.327]	Done.
+
+[2025-09-24 22:05:45.304]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-24 22:05:45.313]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-24 22:05:45.348]	Already installed "tmux-yank"
+[2025-09-24 22:05:45.357]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-24 22:05:45.378]	Updating all plugins!
+[2025-09-24 22:05:45.387]	
+[2025-09-24 22:05:45.798]	  "tmux-yank" update fail
+[2025-09-24 22:05:45.808]	    | Already up to date.
+[2025-09-24 22:05:45.818]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-24 22:05:45.828]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-24 22:05:45.868]	Done.
+
+[2025-09-25 13:03:43.911]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-25 13:03:43.921]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-25 13:03:43.958]	Already installed "tmux-yank"
+[2025-09-25 13:03:43.968]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-25 13:03:43.992]	Updating all plugins!
+[2025-09-25 13:03:44.003]	
+[2025-09-25 13:03:44.382]	  "tmux-yank" update fail
+[2025-09-25 13:03:44.391]	    | Already up to date.
+[2025-09-25 13:03:44.400]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-25 13:03:44.412]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-25 13:03:44.455]	Done.
+
+[2025-09-26 08:50:32.634]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-26 08:50:32.644]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-26 08:50:32.678]	Already installed "tmux-yank"
+[2025-09-26 08:50:32.687]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-26 08:50:32.710]	Updating all plugins!
+[2025-09-26 08:50:32.720]	
+[2025-09-26 08:50:33.080]	  "tmux-yank" update fail
+[2025-09-26 08:50:33.088]	    | Already up to date.
+[2025-09-26 08:50:33.097]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-26 08:50:33.106]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-26 08:50:33.138]	Done.
+
+[2025-09-26 21:23:34.229]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-26 21:23:34.238]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-26 21:23:34.274]	Already installed "tmux-yank"
+[2025-09-26 21:23:34.284]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-26 21:23:34.310]	Updating all plugins!
+[2025-09-26 21:23:34.324]	
+[2025-09-26 21:23:34.683]	  "tmux-yank" update fail
+[2025-09-26 21:23:34.694]	    | Already up to date.
+[2025-09-26 21:23:34.705]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-26 21:23:34.715]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-26 21:23:34.753]	Done.
+
+[2025-09-27 01:17:39.160]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-27 01:17:39.171]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-27 01:17:39.209]	Already installed "tmux-yank"
+[2025-09-27 01:17:39.219]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-27 01:17:39.251]	Updating all plugins!
+[2025-09-27 01:17:39.265]	
+[2025-09-27 01:17:39.648]	  "tmux-yank" update fail
+[2025-09-27 01:17:39.657]	    | Already up to date.
+[2025-09-27 01:17:39.668]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-27 01:17:39.679]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-27 01:17:39.715]	Done.
+
+[2025-09-27 10:53:25.266]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-27 10:53:25.275]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-27 10:53:25.310]	Already installed "tmux-yank"
+[2025-09-27 10:53:25.319]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-27 10:53:25.341]	Updating all plugins!
+[2025-09-27 10:53:25.352]	
+[2025-09-27 10:53:25.722]	  "tmux-yank" update fail
+[2025-09-27 10:53:25.731]	    | Already up to date.
+[2025-09-27 10:53:25.740]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-27 10:53:25.751]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-27 10:53:25.786]	Done.
+
+[2025-09-27 18:06:01.210]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-27 18:06:01.220]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-27 18:06:01.256]	Already installed "tmux-yank"
+[2025-09-27 18:06:01.266]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-27 18:06:01.289]	Updating all plugins!
+[2025-09-27 18:06:01.300]	
+[2025-09-27 18:06:01.686]	  "tmux-yank" update fail
+[2025-09-27 18:06:01.696]	    | Already up to date.
+[2025-09-27 18:06:01.705]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-27 18:06:01.716]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-27 18:06:01.755]	Done.
+
+[2025-09-28 10:38:53.297]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-28 10:38:53.307]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-28 10:38:53.343]	Already installed "tmux-yank"
+[2025-09-28 10:38:53.353]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-28 10:38:53.373]	Updating all plugins!
+[2025-09-28 10:38:53.382]	
+[2025-09-28 10:38:53.731]	  "tmux-yank" update fail
+[2025-09-28 10:38:53.740]	    | Already up to date.
+[2025-09-28 10:38:53.749]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-28 10:38:53.758]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-28 10:38:53.810]	Done.
+
+[2025-09-30 18:51:27.103]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-09-30 18:51:27.113]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-09-30 18:51:27.156]	Already installed "tmux-yank"
+[2025-09-30 18:51:27.167]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-09-30 18:51:27.190]	Updating all plugins!
+[2025-09-30 18:51:27.201]	
+[2025-09-30 18:51:27.576]	  "tmux-yank" update fail
+[2025-09-30 18:51:27.587]	    | Already up to date.
+[2025-09-30 18:51:27.596]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-09-30 18:51:27.605]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-09-30 18:51:27.639]	Done.
+
+[2025-10-02 14:15:15.396]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-02 14:15:15.406]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-02 14:15:15.452]	Already installed "tmux-yank"
+[2025-10-02 14:15:15.462]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-02 14:15:15.488]	Updating all plugins!
+[2025-10-02 14:15:15.500]	
+[2025-10-02 14:15:15.888]	  "tmux-yank" update fail
+[2025-10-02 14:15:15.897]	    | Already up to date.
+[2025-10-02 14:15:15.906]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-02 14:15:15.916]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-02 14:15:15.963]	Done.
+
+[2025-10-03 17:30:00.322]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-03 17:30:00.333]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-03 17:30:00.369]	Already installed "tmux-yank"
+[2025-10-03 17:30:00.380]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-03 17:30:00.408]	Updating all plugins!
+[2025-10-03 17:30:00.425]	
+[2025-10-03 17:30:00.809]	  "tmux-yank" update fail
+[2025-10-03 17:30:00.828]	    | Already up to date.
+[2025-10-03 17:30:00.843]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-03 17:30:00.869]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-03 17:30:00.911]	Done.
+
+[2025-10-03 23:06:11.093]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-03 23:06:11.104]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-03 23:06:11.144]	Already installed "tmux-yank"
+[2025-10-03 23:06:11.161]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-03 23:06:11.196]	Updating all plugins!
+[2025-10-03 23:06:11.233]	
+[2025-10-03 23:06:11.607]	  "tmux-yank" update fail
+[2025-10-03 23:06:11.616]	    | Already up to date.
+[2025-10-03 23:06:11.625]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-03 23:06:11.635]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-03 23:06:11.670]	Done.
+
+[2025-10-04 14:21:05.925]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-04 14:21:05.934]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-04 14:21:05.981]	Already installed "tmux-yank"
+[2025-10-04 14:21:05.994]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-04 14:21:06.022]	Updating all plugins!
+[2025-10-04 14:21:06.035]	
+[2025-10-04 14:21:06.397]	  "tmux-yank" update fail
+[2025-10-04 14:21:06.406]	    | Already up to date.
+[2025-10-04 14:21:06.414]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-04 14:21:06.423]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-04 14:21:06.455]	Done.
+
+[2025-10-04 23:39:48.550]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-04 23:39:48.564]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-04 23:39:48.633]	Already installed "tmux-yank"
+[2025-10-04 23:39:48.654]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-04 23:39:48.769]	Updating all plugins!
+[2025-10-04 23:39:48.783]	
+[2025-10-04 23:39:49.190]	  "tmux-yank" update fail
+[2025-10-04 23:39:49.200]	    | Already up to date.
+[2025-10-04 23:39:49.210]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-04 23:39:49.220]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-04 23:39:49.256]	Done.
+
+[2025-10-04 23:41:28.550]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-04 23:41:28.566]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-04 23:41:28.665]	Already installed "tmux-yank"
+[2025-10-04 23:41:28.693]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-04 23:41:28.723]	Updating all plugins!
+[2025-10-04 23:41:28.738]	
+[2025-10-04 23:41:29.117]	  "tmux-yank" update fail
+[2025-10-04 23:41:29.127]	    | Already up to date.
+[2025-10-04 23:41:29.137]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-04 23:41:29.152]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-04 23:41:29.208]	Done.
+
+[2025-10-05 04:03:39.804]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-05 04:03:39.816]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-05 04:03:39.864]	Already installed "tmux-yank"
+[2025-10-05 04:03:39.877]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-05 04:03:39.904]	Updating all plugins!
+[2025-10-05 04:03:39.916]	
+[2025-10-05 04:03:40.291]	  "tmux-yank" update fail
+[2025-10-05 04:03:40.303]	    | Already up to date.
+[2025-10-05 04:03:40.316]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-05 04:03:40.329]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-05 04:03:40.375]	Done.
+
+[2025-10-06 17:10:01.190]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-06 17:10:01.204]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-06 17:10:01.273]	Already installed "tmux-yank"
+[2025-10-06 17:10:01.288]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-06 17:10:01.315]	Updating all plugins!
+[2025-10-06 17:10:01.326]	
+[2025-10-06 17:10:01.761]	  "tmux-yank" update fail
+[2025-10-06 17:10:01.776]	    | Already up to date.
+[2025-10-06 17:10:01.790]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-06 17:10:01.802]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-06 17:10:01.858]	Done.
+
+[2025-10-07 03:16:55.513]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-07 03:16:55.524]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-07 03:16:55.562]	Already installed "tmux-yank"
+[2025-10-07 03:16:55.590]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-07 03:16:55.615]	Updating all plugins!
+[2025-10-07 03:16:55.625]	
+[2025-10-07 03:16:55.990]	  "tmux-yank" update fail
+[2025-10-07 03:16:55.999]	    | Already up to date.
+[2025-10-07 03:16:56.007]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-07 03:16:56.016]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-07 03:16:56.048]	Done.
+
+[2025-10-07 20:09:46.217]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-07 20:09:46.227]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-07 20:09:46.269]	Already installed "tmux-yank"
+[2025-10-07 20:09:46.278]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-07 20:09:46.299]	Updating all plugins!
+[2025-10-07 20:09:46.308]	
+[2025-10-07 20:09:46.679]	  "tmux-yank" update fail
+[2025-10-07 20:09:46.688]	    | Already up to date.
+[2025-10-07 20:09:46.697]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-07 20:09:46.706]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-07 20:09:46.739]	Done.
+
+[2025-10-08 20:47:54.808]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-08 20:47:54.819]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-08 20:47:54.857]	Already installed "tmux-yank"
+[2025-10-08 20:47:54.867]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-08 20:47:54.891]	Updating all plugins!
+[2025-10-08 20:47:54.902]	
+[2025-10-08 20:47:55.269]	  "tmux-yank" update fail
+[2025-10-08 20:47:55.278]	    | Already up to date.
+[2025-10-08 20:47:55.287]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-08 20:47:55.299]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-08 20:47:55.335]	Done.
+
+[2025-10-09 01:19:10.303]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-09 01:19:10.313]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-09 01:19:10.360]	Already installed "tmux-yank"
+[2025-10-09 01:19:10.371]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-09 01:19:10.398]	Updating all plugins!
+[2025-10-09 01:19:10.409]	
+[2025-10-09 01:19:10.779]	  "tmux-yank" update fail
+[2025-10-09 01:19:10.793]	    | Already up to date.
+[2025-10-09 01:19:10.807]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-09 01:19:10.819]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-09 01:19:10.876]	Done.
+
+[2025-10-10 02:32:55.318]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-10 02:32:55.327]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-10 02:32:55.364]	Already installed "tmux-yank"
+[2025-10-10 02:32:55.373]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-10 02:32:55.400]	Updating all plugins!
+[2025-10-10 02:32:55.410]	
+[2025-10-10 02:32:55.775]	  "tmux-yank" update fail
+[2025-10-10 02:32:55.784]	    | Already up to date.
+[2025-10-10 02:32:55.793]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-10 02:32:55.803]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-10 02:32:55.836]	Done.
+
+[2025-10-12 01:23:33.308]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-12 01:23:33.318]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-12 01:23:33.364]	Already installed "tmux-yank"
+[2025-10-12 01:23:33.378]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-12 01:23:33.401]	Updating all plugins!
+[2025-10-12 01:23:33.411]	
+[2025-10-12 01:23:34.113]	  "tmux-yank" update fail
+[2025-10-12 01:23:34.123]	    | Already up to date.
+[2025-10-12 01:23:34.132]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-12 01:23:34.144]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-12 01:23:34.179]	Done.
+
+[2025-10-12 20:24:27.200]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-12 20:24:27.211]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-12 20:24:27.253]	Already installed "tmux-yank"
+[2025-10-12 20:24:27.263]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-12 20:24:27.286]	Updating all plugins!
+[2025-10-12 20:24:27.297]	
+[2025-10-12 20:24:27.857]	  "tmux-yank" update fail
+[2025-10-12 20:24:27.866]	    | Already up to date.
+[2025-10-12 20:24:27.875]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-12 20:24:27.886]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-12 20:24:27.923]	Done.
+
+[2025-10-15 20:45:13.821]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-15 20:45:13.831]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-15 20:45:13.869]	Already installed "tmux-yank"
+[2025-10-15 20:45:13.880]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-15 20:45:13.903]	Updating all plugins!
+[2025-10-15 20:45:13.917]	
+[2025-10-15 20:45:14.280]	  "tmux-yank" update fail
+[2025-10-15 20:45:14.292]	    | Already up to date.
+[2025-10-15 20:45:14.303]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-15 20:45:14.313]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-15 20:45:14.350]	Done.
+
+[2025-10-16 09:50:20.651]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-16 09:50:20.681]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-16 09:50:20.745]	Already installed "tmux-yank"
+[2025-10-16 09:50:20.763]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-16 09:50:20.792]	Updating all plugins!
+[2025-10-16 09:50:20.802]	
+[2025-10-16 09:50:21.200]	  "tmux-yank" update fail
+[2025-10-16 09:50:21.218]	    | Already up to date.
+[2025-10-16 09:50:21.230]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-16 09:50:21.240]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-16 09:50:21.279]	Done.
+
+[2025-10-16 23:27:59.562]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-16 23:27:59.572]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-16 23:27:59.608]	Already installed "tmux-yank"
+[2025-10-16 23:27:59.617]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-16 23:27:59.638]	Updating all plugins!
+[2025-10-16 23:27:59.649]	
+[2025-10-16 23:28:00.014]	  "tmux-yank" update fail
+[2025-10-16 23:28:00.023]	    | Already up to date.
+[2025-10-16 23:28:00.031]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-16 23:28:00.042]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-16 23:28:00.076]	Done.
+
+[2025-10-18 00:13:18.256]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-18 00:13:18.265]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-18 00:13:18.299]	Already installed "tmux-yank"
+[2025-10-18 00:13:18.308]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-18 00:13:18.329]	Updating all plugins!
+[2025-10-18 00:13:18.337]	
+[2025-10-18 00:13:18.692]	  "tmux-yank" update fail
+[2025-10-18 00:13:18.701]	    | Already up to date.
+[2025-10-18 00:13:18.709]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-18 00:13:18.719]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-18 00:13:18.751]	Done.
+
+[2025-10-19 01:50:18.426]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-19 01:50:18.435]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-19 01:50:18.469]	Already installed "tmux-yank"
+[2025-10-19 01:50:18.478]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-19 01:50:18.499]	Updating all plugins!
+[2025-10-19 01:50:18.507]	
+[2025-10-19 01:50:18.889]	  "tmux-yank" update fail
+[2025-10-19 01:50:18.898]	    | Already up to date.
+[2025-10-19 01:50:18.907]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-19 01:50:18.917]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-19 01:50:18.960]	Done.
+
+[2025-10-20 05:06:16.259]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-20 05:06:16.268]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-20 05:06:16.302]	Already installed "tmux-yank"
+[2025-10-20 05:06:16.311]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-20 05:06:16.332]	Updating all plugins!
+[2025-10-20 05:06:16.340]	
+[2025-10-20 05:06:16.685]	  "tmux-yank" update fail
+[2025-10-20 05:06:16.694]	    | Already up to date.
+[2025-10-20 05:06:16.703]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-20 05:06:16.715]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-20 05:06:16.748]	Done.
+
+[2025-10-20 13:47:11.238]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-20 13:47:11.248]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-20 13:47:11.287]	Already installed "tmux-yank"
+[2025-10-20 13:47:11.298]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-20 13:47:11.326]	Updating all plugins!
+[2025-10-20 13:47:11.335]	
+[2025-10-20 13:47:11.748]	  "tmux-yank" update fail
+[2025-10-20 13:47:11.758]	    | Already up to date.
+[2025-10-20 13:47:11.768]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-20 13:47:11.780]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-20 13:47:11.813]	Done.
+
+[2025-10-21 03:58:12.814]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-21 03:58:12.827]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-21 03:58:12.876]	Already installed "tmux-yank"
+[2025-10-21 03:58:12.890]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-21 03:58:12.916]	Updating all plugins!
+[2025-10-21 03:58:12.927]	
+[2025-10-21 03:58:13.343]	  "tmux-yank" update fail
+[2025-10-21 03:58:13.354]	    | Already up to date.
+[2025-10-21 03:58:13.363]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-21 03:58:13.373]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-21 03:58:13.406]	Done.
+
+[2025-10-21 14:03:21.008]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-21 14:03:21.018]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-21 14:03:21.058]	Already installed "tmux-yank"
+[2025-10-21 14:03:21.068]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-21 14:03:21.091]	Updating all plugins!
+[2025-10-21 14:03:21.100]	
+[2025-10-21 14:03:21.450]	  "tmux-yank" update fail
+[2025-10-21 14:03:21.461]	    | Already up to date.
+[2025-10-21 14:03:21.475]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-21 14:03:21.491]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-21 14:03:21.549]	Done.
+
+[2025-10-21 17:44:39.678]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-21 17:44:39.688]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-21 17:44:39.725]	Already installed "tmux-yank"
+[2025-10-21 17:44:39.735]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-21 17:44:39.758]	Updating all plugins!
+[2025-10-21 17:44:39.767]	
+[2025-10-21 17:44:40.144]	  "tmux-yank" update fail
+[2025-10-21 17:44:40.153]	    | Already up to date.
+[2025-10-21 17:44:40.163]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-21 17:44:40.172]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-21 17:44:40.207]	Done.
+
+[2025-10-22 07:14:20.386]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-22 07:14:20.396]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-22 07:14:20.430]	Already installed "tmux-yank"
+[2025-10-22 07:14:20.439]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-22 07:14:20.460]	Updating all plugins!
+[2025-10-22 07:14:20.468]	
+[2025-10-22 07:14:20.825]	  "tmux-yank" update fail
+[2025-10-22 07:14:20.834]	    | Already up to date.
+[2025-10-22 07:14:20.843]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-22 07:14:20.852]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-22 07:14:20.886]	Done.
+
+[2025-10-23 04:42:29.700]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-23 04:42:29.709]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-23 04:42:29.745]	Already installed "tmux-yank"
+[2025-10-23 04:42:29.754]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-23 04:42:29.776]	Updating all plugins!
+[2025-10-23 04:42:29.785]	
+[2025-10-23 04:42:30.146]	  "tmux-yank" update fail
+[2025-10-23 04:42:30.154]	    | Already up to date.
+[2025-10-23 04:42:30.163]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-23 04:42:30.173]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-23 04:42:30.207]	Done.
+
+[2025-10-24 08:21:12.526]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-24 08:21:12.535]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-24 08:21:12.572]	Already installed "tmux-yank"
+[2025-10-24 08:21:12.581]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-24 08:21:12.601]	Updating all plugins!
+[2025-10-24 08:21:12.610]	
+[2025-10-24 08:21:12.952]	  "tmux-yank" update fail
+[2025-10-24 08:21:12.962]	    | Already up to date.
+[2025-10-24 08:21:12.970]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-24 08:21:12.981]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-24 08:21:13.016]	Done.
+
+[2025-10-25 07:45:55.921]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-25 07:45:55.931]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-25 07:45:55.965]	Already installed "tmux-yank"
+[2025-10-25 07:45:55.974]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-25 07:45:55.994]	Updating all plugins!
+[2025-10-25 07:45:56.003]	
+[2025-10-25 07:45:56.355]	  "tmux-yank" update fail
+[2025-10-25 07:45:56.364]	    | Already up to date.
+[2025-10-25 07:45:56.372]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-25 07:45:56.381]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-25 07:45:56.412]	Done.
+
+[2025-10-26 07:52:22.354]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-26 07:52:22.363]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-26 07:52:22.398]	Already installed "tmux-yank"
+[2025-10-26 07:52:22.407]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-26 07:52:22.428]	Updating all plugins!
+[2025-10-26 07:52:22.436]	
+[2025-10-26 07:52:22.785]	  "tmux-yank" update fail
+[2025-10-26 07:52:22.795]	    | Already up to date.
+[2025-10-26 07:52:22.804]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-26 07:52:22.814]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-26 07:52:22.851]	Done.
+
+[2025-10-27 08:24:19.270]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-27 08:24:19.279]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-27 08:24:19.313]	Already installed "tmux-yank"
+[2025-10-27 08:24:19.322]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-27 08:24:19.343]	Updating all plugins!
+[2025-10-27 08:24:19.351]	
+[2025-10-27 08:24:19.717]	  "tmux-yank" update fail
+[2025-10-27 08:24:19.726]	    | Already up to date.
+[2025-10-27 08:24:19.735]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-27 08:24:19.745]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-27 08:24:19.777]	Done.
+
+[2025-10-28 09:26:09.562]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-28 09:26:09.572]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-28 09:26:09.608]	Already installed "tmux-yank"
+[2025-10-28 09:26:09.619]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-28 09:26:09.640]	Updating all plugins!
+[2025-10-28 09:26:09.649]	
+[2025-10-28 09:26:10.007]	  "tmux-yank" update fail
+[2025-10-28 09:26:10.015]	    | Already up to date.
+[2025-10-28 09:26:10.024]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-28 09:26:10.033]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-28 09:26:10.066]	Done.
+
+[2025-10-29 22:43:39.626]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-29 22:43:39.636]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-29 22:43:39.672]	Already installed "tmux-yank"
+[2025-10-29 22:43:39.682]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-29 22:43:39.705]	Updating all plugins!
+[2025-10-29 22:43:39.714]	
+[2025-10-29 22:43:40.058]	  "tmux-yank" update fail
+[2025-10-29 22:43:40.070]	    | Already up to date.
+[2025-10-29 22:43:40.083]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-29 22:43:40.094]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-29 22:43:40.135]	Done.
+
+[2025-10-30 10:14:23.061]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-30 10:14:23.071]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-30 10:14:23.107]	Already installed "tmux-yank"
+[2025-10-30 10:14:23.119]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-30 10:14:23.141]	Updating all plugins!
+[2025-10-30 10:14:23.150]	
+[2025-10-30 10:14:23.552]	  "tmux-yank" update fail
+[2025-10-30 10:14:23.562]	    | Already up to date.
+[2025-10-30 10:14:23.570]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-30 10:14:23.579]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-30 10:14:23.612]	Done.
+
+[2025-10-31 10:19:24.549]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-10-31 10:19:24.559]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-31 10:19:24.594]	Already installed "tmux-yank"
+[2025-10-31 10:19:24.603]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-31 10:19:24.625]	Updating all plugins!
+[2025-10-31 10:19:24.635]	
+[2025-10-31 10:19:24.999]	  "tmux-yank" update fail
+[2025-10-31 10:19:25.008]	    | Already up to date.
+[2025-10-31 10:19:25.016]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-10-31 10:19:25.026]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-31 10:19:25.060]	Done.
+
+[2025-11-01 11:26:02.990]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-01 11:26:03.000]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-01 11:26:03.037]	Already installed "tmux-yank"
+[2025-11-01 11:26:03.047]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-01 11:26:03.069]	Updating all plugins!
+[2025-11-01 11:26:03.078]	
+[2025-11-01 11:26:03.434]	  "tmux-yank" update fail
+[2025-11-01 11:26:03.448]	    | Already up to date.
+[2025-11-01 11:26:03.458]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-01 11:26:03.468]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-01 11:26:03.502]	Done.
+
+[2025-11-02 07:31:46.258]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-02 07:31:46.268]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-02 07:31:46.304]	Already installed "tmux-yank"
+[2025-11-02 07:31:46.313]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-02 07:31:46.334]	Updating all plugins!
+[2025-11-02 07:31:46.342]	
+[2025-11-02 07:31:46.668]	  "tmux-yank" update fail
+[2025-11-02 07:31:46.677]	    | Already up to date.
+[2025-11-02 07:31:46.686]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-02 07:31:46.695]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-02 07:31:46.728]	Done.
+
+[2025-11-03 12:05:54.832]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-03 12:05:54.842]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-03 12:05:54.876]	Already installed "tmux-yank"
+[2025-11-03 12:05:54.885]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-03 12:05:54.905]	Updating all plugins!
+[2025-11-03 12:05:54.914]	
+[2025-11-03 12:05:55.269]	  "tmux-yank" update fail
+[2025-11-03 12:05:55.278]	    | Already up to date.
+[2025-11-03 12:05:55.286]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-03 12:05:55.295]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-03 12:05:55.328]	Done.
+
+[2025-11-05 00:20:05.032]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-05 00:20:05.042]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-05 00:20:05.083]	Already installed "tmux-yank"
+[2025-11-05 00:20:05.093]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-05 00:20:05.122]	Updating all plugins!
+[2025-11-05 00:20:05.144]	
+[2025-11-05 00:20:05.548]	  "tmux-yank" update fail
+[2025-11-05 00:20:05.558]	    | Already up to date.
+[2025-11-05 00:20:05.569]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-05 00:20:05.580]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-05 00:20:05.624]	Done.
+
+[2025-11-05 12:35:09.578]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-05 12:35:09.588]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-05 12:35:09.623]	Already installed "tmux-yank"
+[2025-11-05 12:35:09.632]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-05 12:35:09.656]	Updating all plugins!
+[2025-11-05 12:35:09.664]	
+[2025-11-05 12:35:10.012]	  "tmux-yank" update fail
+[2025-11-05 12:35:10.021]	    | Already up to date.
+[2025-11-05 12:35:10.030]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-05 12:35:10.041]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-05 12:35:10.073]	Done.
+
+[2025-11-06 14:08:19.146]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-06 14:08:19.155]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-06 14:08:19.191]	Already installed "tmux-yank"
+[2025-11-06 14:08:19.200]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-06 14:08:19.221]	Updating all plugins!
+[2025-11-06 14:08:19.229]	
+[2025-11-06 14:08:19.550]	  "tmux-yank" update fail
+[2025-11-06 14:08:19.559]	    | Already up to date.
+[2025-11-06 14:08:19.570]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-06 14:08:19.579]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-06 14:08:19.613]	Done.
+
+[2025-11-07 15:17:06.483]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-07 15:17:06.492]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-07 15:17:06.528]	Already installed "tmux-yank"
+[2025-11-07 15:17:06.537]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-07 15:17:06.558]	Updating all plugins!
+[2025-11-07 15:17:06.567]	
+[2025-11-07 15:17:06.922]	  "tmux-yank" update fail
+[2025-11-07 15:17:06.933]	    | Already up to date.
+[2025-11-07 15:17:06.946]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-07 15:17:06.956]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-07 15:17:07.001]	Done.
+
+[2025-11-08 02:56:47.372]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-08 02:56:47.385]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-08 02:56:47.434]	Already installed "tmux-yank"
+[2025-11-08 02:56:47.454]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-08 02:56:47.491]	Updating all plugins!
+[2025-11-08 02:56:47.502]	
+[2025-11-08 02:56:47.837]	  "tmux-yank" update fail
+[2025-11-08 02:56:47.848]	    | Already up to date.
+[2025-11-08 02:56:47.858]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-08 02:56:47.869]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-08 02:56:47.904]	Done.
+
+[2025-11-08 04:36:52.476]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-08 04:36:52.489]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-08 04:36:52.534]	Already installed "tmux-yank"
+[2025-11-08 04:36:52.546]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-08 04:36:52.584]	Updating all plugins!
+[2025-11-08 04:36:52.597]	
+[2025-11-08 04:36:52.927]	  "tmux-yank" update fail
+[2025-11-08 04:36:52.937]	    | Already up to date.
+[2025-11-08 04:36:52.948]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-08 04:36:52.958]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-08 04:36:52.994]	Done.
+
+[2025-11-08 17:24:16.482]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-08 17:24:16.491]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-08 17:24:16.526]	Already installed "tmux-yank"
+[2025-11-08 17:24:16.535]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-08 17:24:16.557]	Updating all plugins!
+[2025-11-08 17:24:16.565]	
+[2025-11-08 17:24:16.898]	  "tmux-yank" update fail
+[2025-11-08 17:24:16.907]	    | Already up to date.
+[2025-11-08 17:24:16.917]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-08 17:24:16.926]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-08 17:24:16.959]	Done.
+
+[2025-11-09 17:27:27.988]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-09 17:27:27.998]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-09 17:27:28.034]	Already installed "tmux-yank"
+[2025-11-09 17:27:28.043]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-09 17:27:28.064]	Updating all plugins!
+[2025-11-09 17:27:28.073]	
+[2025-11-09 17:27:28.391]	  "tmux-yank" update fail
+[2025-11-09 17:27:28.401]	    | Already up to date.
+[2025-11-09 17:27:28.412]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-09 17:27:28.425]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-09 17:27:28.460]	Done.
+
+[2025-11-09 19:07:32.869]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-09 19:07:32.879]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-09 19:07:32.914]	Already installed "tmux-yank"
+[2025-11-09 19:07:32.924]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-09 19:07:32.946]	Updating all plugins!
+[2025-11-09 19:07:32.955]	
+[2025-11-09 19:07:33.274]	  "tmux-yank" update fail
+[2025-11-09 19:07:33.285]	    | Already up to date.
+[2025-11-09 19:07:33.296]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-09 19:07:33.306]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-09 19:07:33.339]	Done.
+
+[2025-11-10 15:59:29.603]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-10 15:59:29.612]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-10 15:59:29.648]	Already installed "tmux-yank"
+[2025-11-10 15:59:29.657]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-10 15:59:29.678]	Updating all plugins!
+[2025-11-10 15:59:29.687]	
+[2025-11-10 15:59:30.036]	  "tmux-yank" update fail
+[2025-11-10 15:59:30.045]	    | Already up to date.
+[2025-11-10 15:59:30.054]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-10 15:59:30.063]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-10 15:59:30.095]	Done.
+
+[2025-11-11 17:54:21.033]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-11 17:54:21.044]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-11 17:54:21.084]	Already installed "tmux-yank"
+[2025-11-11 17:54:21.093]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-11 17:54:21.117]	Updating all plugins!
+[2025-11-11 17:54:21.127]	
+[2025-11-11 17:54:21.442]	  "tmux-yank" update fail
+[2025-11-11 17:54:21.453]	    | Already up to date.
+[2025-11-11 17:54:21.462]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-11 17:54:21.472]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-11 17:54:21.509]	Done.
+
+[2025-11-12 22:12:43.330]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-12 22:12:43.339]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-12 22:12:43.373]	Already installed "tmux-yank"
+[2025-11-12 22:12:43.382]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-12 22:12:43.403]	Updating all plugins!
+[2025-11-12 22:12:43.411]	
+[2025-11-12 22:12:43.753]	  "tmux-yank" update fail
+[2025-11-12 22:12:43.765]	    | Already up to date.
+[2025-11-12 22:12:43.777]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-12 22:12:43.788]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-12 22:12:43.838]	Done.
+
+[2025-11-13 00:38:14.665]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-13 00:38:14.675]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-13 00:38:14.710]	Already installed "tmux-yank"
+[2025-11-13 00:38:14.720]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-13 00:38:14.741]	Updating all plugins!
+[2025-11-13 00:38:14.750]	
+[2025-11-13 00:38:15.069]	  "tmux-yank" update fail
+[2025-11-13 00:38:15.084]	    | Already up to date.
+[2025-11-13 00:38:15.098]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-13 00:38:15.110]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-13 00:38:15.155]	Done.
+
+[2025-11-14 01:19:54.178]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-14 01:19:54.187]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-14 01:19:54.216]	Already installed "tmux-yank"
+[2025-11-14 01:19:54.225]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-14 01:19:54.243]	Updating all plugins!
+[2025-11-14 01:19:54.251]	
+[2025-11-14 01:19:54.566]	  "tmux-yank" update fail
+[2025-11-14 01:19:54.575]	    | Already up to date.
+[2025-11-14 01:19:54.584]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-14 01:19:54.593]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-14 01:19:54.632]	Done.
+
+[2025-11-14 04:01:23.034]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-14 04:01:23.047]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-14 04:01:23.081]	Already installed "tmux-yank"
+[2025-11-14 04:01:23.091]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-14 04:01:23.109]	Updating all plugins!
+[2025-11-14 04:01:23.118]	
+[2025-11-14 04:01:23.444]	  "tmux-yank" update fail
+[2025-11-14 04:01:23.454]	    | Already up to date.
+[2025-11-14 04:01:23.464]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-14 04:01:23.478]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-14 04:01:23.516]	Done.
+
+[2025-11-16 11:03:14.792]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-16 11:03:14.805]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-16 11:03:14.857]	Already installed "tmux-yank"
+[2025-11-16 11:03:14.868]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-16 11:03:14.894]	Updating all plugins!
+[2025-11-16 11:03:14.910]	
+[2025-11-16 11:03:15.259]	  "tmux-yank" update fail
+[2025-11-16 11:03:15.269]	    | Already up to date.
+[2025-11-16 11:03:15.281]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-16 11:03:15.292]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-16 11:03:15.341]	Done.
+
+[2025-11-16 21:41:19.213]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-16 21:41:19.225]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-16 21:41:19.260]	Already installed "tmux-yank"
+[2025-11-16 21:41:19.271]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-16 21:41:19.297]	Updating all plugins!
+[2025-11-16 21:41:19.309]	
+[2025-11-16 21:41:19.617]	  "tmux-yank" update fail
+[2025-11-16 21:41:19.628]	    | Already up to date.
+[2025-11-16 21:41:19.638]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-16 21:41:19.648]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-16 21:41:19.677]	Done.
+
+[2025-11-17 23:34:21.450]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-17 23:34:21.460]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-17 23:34:21.495]	Already installed "tmux-yank"
+[2025-11-17 23:34:21.506]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-17 23:34:21.527]	Updating all plugins!
+[2025-11-17 23:34:21.536]	
+[2025-11-17 23:34:21.864]	  "tmux-yank" update fail
+[2025-11-17 23:34:21.875]	    | Already up to date.
+[2025-11-17 23:34:21.887]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-17 23:34:21.898]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-17 23:34:21.929]	Done.
+
+[2025-11-19 00:04:38.267]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-19 00:04:38.277]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-19 00:04:38.322]	Already installed "tmux-yank"
+[2025-11-19 00:04:38.334]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-19 00:04:38.358]	Updating all plugins!
+[2025-11-19 00:04:38.373]	
+[2025-11-19 00:04:38.701]	  "tmux-yank" update fail
+[2025-11-19 00:04:38.711]	    | Already up to date.
+[2025-11-19 00:04:38.720]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-19 00:04:38.730]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-19 00:04:38.759]	Done.
+
+[2025-11-21 01:41:04.563]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-21 01:41:04.573]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-21 01:41:04.607]	Already installed "tmux-yank"
+[2025-11-21 01:41:04.617]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-21 01:41:04.637]	Updating all plugins!
+[2025-11-21 01:41:04.646]	
+[2025-11-21 01:41:04.972]	  "tmux-yank" update fail
+[2025-11-21 01:41:04.981]	    | Already up to date.
+[2025-11-21 01:41:04.990]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-21 01:41:05.000]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-21 01:41:05.029]	Done.
+
+[2025-11-21 11:06:14.615]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-21 11:06:14.629]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-21 11:06:14.685]	Already installed "tmux-yank"
+[2025-11-21 11:06:14.701]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-21 11:06:14.731]	Updating all plugins!
+[2025-11-21 11:06:14.747]	
+[2025-11-21 11:06:15.097]	  "tmux-yank" update fail
+[2025-11-21 11:06:15.107]	    | Already up to date.
+[2025-11-21 11:06:15.117]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-21 11:06:15.127]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-21 11:06:15.158]	Done.
+
+[2025-11-22 08:24:58.885]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-22 08:24:58.895]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-22 08:24:58.925]	Already installed "tmux-yank"
+[2025-11-22 08:24:58.934]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-22 08:24:58.952]	Updating all plugins!
+[2025-11-22 08:24:58.961]	
+[2025-11-22 08:24:59.292]	  "tmux-yank" update fail
+[2025-11-22 08:24:59.301]	    | Already up to date.
+[2025-11-22 08:24:59.310]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-22 08:24:59.319]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-22 08:24:59.347]	Done.
+
+[2025-11-23 10:06:41.908]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-23 10:06:41.917]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-23 10:06:41.948]	Already installed "tmux-yank"
+[2025-11-23 10:06:41.957]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-23 10:06:41.976]	Updating all plugins!
+[2025-11-23 10:06:41.985]	
+[2025-11-23 10:06:42.309]	  "tmux-yank" update fail
+[2025-11-23 10:06:42.318]	    | Already up to date.
+[2025-11-23 10:06:42.326]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-23 10:06:42.338]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-23 10:06:42.365]	Done.
+
+[2025-11-25 17:41:56.341]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-25 17:41:56.353]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-25 17:41:56.394]	Already installed "tmux-yank"
+[2025-11-25 17:41:56.408]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-25 17:41:56.430]	Updating all plugins!
+[2025-11-25 17:41:56.441]	
+[2025-11-25 17:41:56.788]	  "tmux-yank" update fail
+[2025-11-25 17:41:56.797]	    | Already up to date.
+[2025-11-25 17:41:56.806]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-25 17:41:56.816]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-25 17:41:56.846]	Done.
+
+[2025-11-26 08:32:22.626]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-26 08:32:22.636]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-26 08:32:22.667]	Already installed "tmux-yank"
+[2025-11-26 08:32:22.677]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-26 08:32:22.696]	Updating all plugins!
+[2025-11-26 08:32:22.704]	
+[2025-11-26 08:32:23.022]	  "tmux-yank" update fail
+[2025-11-26 08:32:23.031]	    | Already up to date.
+[2025-11-26 08:32:23.040]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-26 08:32:23.049]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-26 08:32:23.077]	Done.
+
+[2025-11-27 11:03:28.690]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-27 11:03:28.702]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-27 11:03:28.749]	Already installed "tmux-yank"
+[2025-11-27 11:03:28.759]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-27 11:03:28.787]	Updating all plugins!
+[2025-11-27 11:03:28.797]	
+[2025-11-27 11:03:29.153]	  "tmux-yank" update fail
+[2025-11-27 11:03:29.164]	    | Already up to date.
+[2025-11-27 11:03:29.177]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-27 11:03:29.187]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-27 11:03:29.221]	Done.
+
+[2025-11-28 11:41:12.796]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-28 11:41:12.804]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-28 11:41:12.836]	Already installed "tmux-yank"
+[2025-11-28 11:41:12.846]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-28 11:41:12.864]	Updating all plugins!
+[2025-11-28 11:41:12.873]	
+[2025-11-28 11:41:13.196]	  "tmux-yank" update fail
+[2025-11-28 11:41:13.205]	    | Already up to date.
+[2025-11-28 11:41:13.213]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-28 11:41:13.222]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-28 11:41:13.251]	Done.
+
+[2025-11-29 11:11:21.065]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-29 11:11:21.076]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-29 11:11:21.109]	Already installed "tmux-yank"
+[2025-11-29 11:11:21.120]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-29 11:11:21.145]	Updating all plugins!
+[2025-11-29 11:11:21.156]	
+[2025-11-29 11:11:21.499]	  "tmux-yank" update fail
+[2025-11-29 11:11:21.508]	    | Already up to date.
+[2025-11-29 11:11:21.519]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-29 11:11:21.529]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-29 11:11:21.567]	Done.
+
+[2025-11-30 11:09:17.536]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-30 11:09:17.545]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-30 11:09:17.576]	Already installed "tmux-yank"
+[2025-11-30 11:09:17.585]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-30 11:09:17.608]	Updating all plugins!
+[2025-11-30 11:09:17.618]	
+[2025-11-30 11:09:17.963]	  "tmux-yank" update fail
+[2025-11-30 11:09:17.973]	    | Already up to date.
+[2025-11-30 11:09:17.984]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-30 11:09:18.001]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-30 11:09:18.035]	Done.
+
+[2025-11-30 22:54:12.361]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-11-30 22:54:12.370]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-30 22:54:12.401]	Already installed "tmux-yank"
+[2025-11-30 22:54:12.411]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-30 22:54:12.431]	Updating all plugins!
+[2025-11-30 22:54:12.441]	
+[2025-11-30 22:54:12.770]	  "tmux-yank" update fail
+[2025-11-30 22:54:12.790]	    | Already up to date.
+[2025-11-30 22:54:12.802]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-11-30 22:54:12.819]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-30 22:54:12.868]	Done.
+
+[2025-12-01 12:03:09.139]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-01 12:03:09.149]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-01 12:03:09.178]	Already installed "tmux-yank"
+[2025-12-01 12:03:09.188]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-01 12:03:09.206]	Updating all plugins!
+[2025-12-01 12:03:09.214]	
+[2025-12-01 12:03:09.549]	  "tmux-yank" update fail
+[2025-12-01 12:03:09.561]	    | Already up to date.
+[2025-12-01 12:03:09.570]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-01 12:03:09.579]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-01 12:03:09.607]	Done.
+
+[2025-12-02 11:39:12.540]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-02 11:39:12.549]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-02 11:39:12.579]	Already installed "tmux-yank"
+[2025-12-02 11:39:12.588]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-02 11:39:12.607]	Updating all plugins!
+[2025-12-02 11:39:12.616]	
+[2025-12-02 11:39:12.949]	  "tmux-yank" update fail
+[2025-12-02 11:39:12.958]	    | Already up to date.
+[2025-12-02 11:39:12.967]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-02 11:39:12.976]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-02 11:39:13.006]	Done.
+
+[2025-12-03 12:48:54.160]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-03 12:48:54.169]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-03 12:48:54.200]	Already installed "tmux-yank"
+[2025-12-03 12:48:54.210]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-03 12:48:54.229]	Updating all plugins!
+[2025-12-03 12:48:54.238]	
+[2025-12-03 12:48:54.564]	  "tmux-yank" update fail
+[2025-12-03 12:48:54.574]	    | Already up to date.
+[2025-12-03 12:48:54.587]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-03 12:48:54.600]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-03 12:48:54.639]	Done.
+
+[2025-12-04 12:45:09.035]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-04 12:45:09.045]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-04 12:45:09.074]	Already installed "tmux-yank"
+[2025-12-04 12:45:09.083]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-04 12:45:09.102]	Updating all plugins!
+[2025-12-04 12:45:09.111]	
+[2025-12-04 12:45:09.444]	  "tmux-yank" update fail
+[2025-12-04 12:45:09.453]	    | Already up to date.
+[2025-12-04 12:45:09.461]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-04 12:45:09.470]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-04 12:45:09.498]	Done.
+
+[2025-12-05 13:29:07.309]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-05 13:29:07.320]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-05 13:29:07.352]	Already installed "tmux-yank"
+[2025-12-05 13:29:07.361]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-05 13:29:07.379]	Updating all plugins!
+[2025-12-05 13:29:07.387]	
+[2025-12-05 13:29:07.733]	  "tmux-yank" update fail
+[2025-12-05 13:29:07.742]	    | Already up to date.
+[2025-12-05 13:29:07.750]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-05 13:29:07.760]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-05 13:29:07.788]	Done.
+
+[2025-12-06 13:08:54.480]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-06 13:08:54.494]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-06 13:08:54.530]	Already installed "tmux-yank"
+[2025-12-06 13:08:54.542]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-06 13:08:54.566]	Updating all plugins!
+[2025-12-06 13:08:54.579]	
+[2025-12-06 13:08:54.913]	  "tmux-yank" update fail
+[2025-12-06 13:08:54.923]	    | Already up to date.
+[2025-12-06 13:08:54.933]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-06 13:08:54.942]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-06 13:08:54.972]	Done.
+
+[2025-12-07 09:37:56.155]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-07 09:37:56.165]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-07 09:37:56.198]	Already installed "tmux-yank"
+[2025-12-07 09:37:56.209]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-07 09:37:56.233]	Updating all plugins!
+[2025-12-07 09:37:56.247]	
+[2025-12-07 09:37:56.584]	  "tmux-yank" update fail
+[2025-12-07 09:37:56.594]	    | Already up to date.
+[2025-12-07 09:37:56.604]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-07 09:37:56.616]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-07 09:37:56.654]	Done.
+
+[2025-12-08 15:38:24.001]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-08 15:38:24.010]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-08 15:38:24.041]	Already installed "tmux-yank"
+[2025-12-08 15:38:24.050]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-08 15:38:24.070]	Updating all plugins!
+[2025-12-08 15:38:24.078]	
+[2025-12-08 15:38:24.416]	  "tmux-yank" update fail
+[2025-12-08 15:38:24.427]	    | Already up to date.
+[2025-12-08 15:38:24.436]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-08 15:38:24.446]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-08 15:38:24.475]	Done.
+
+[2025-12-09 15:46:24.286]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-09 15:46:24.295]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-09 15:46:24.325]	Already installed "tmux-yank"
+[2025-12-09 15:46:24.334]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-09 15:46:24.353]	Updating all plugins!
+[2025-12-09 15:46:24.362]	
+[2025-12-09 15:46:24.701]	  "tmux-yank" update fail
+[2025-12-09 15:46:24.710]	    | Already up to date.
+[2025-12-09 15:46:24.718]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-09 15:46:24.728]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-09 15:46:24.756]	Done.
+
+[2025-12-09 18:09:00.350]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-09 18:09:00.363]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-09 18:09:00.399]	Already installed "tmux-yank"
+[2025-12-09 18:09:00.409]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-09 18:09:00.429]	Updating all plugins!
+[2025-12-09 18:09:00.438]	
+[2025-12-09 18:09:00.780]	  "tmux-yank" update fail
+[2025-12-09 18:09:00.789]	    | Already up to date.
+[2025-12-09 18:09:00.798]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-09 18:09:00.807]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-09 18:09:00.836]	Done.
+
+[2025-12-10 00:19:00.535]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-10 00:19:00.545]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-10 00:19:00.579]	Already installed "tmux-yank"
+[2025-12-10 00:19:00.593]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-10 00:19:00.615]	Updating all plugins!
+[2025-12-10 00:19:00.626]	
+[2025-12-10 00:19:00.953]	  "tmux-yank" update fail
+[2025-12-10 00:19:00.963]	    | Already up to date.
+[2025-12-10 00:19:00.975]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-10 00:19:00.989]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-10 00:19:01.032]	Done.
+
+[2025-12-10 15:22:26.337]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-10 15:22:26.348]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-10 15:22:26.385]	Already installed "tmux-yank"
+[2025-12-10 15:22:26.399]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-10 15:22:26.423]	Updating all plugins!
+[2025-12-10 15:22:26.440]	
+[2025-12-10 15:22:26.803]	  "tmux-yank" update fail
+[2025-12-10 15:22:26.813]	    | Already up to date.
+[2025-12-10 15:22:26.823]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-10 15:22:26.833]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-10 15:22:26.865]	Done.
+
+[2025-12-11 16:38:21.761]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-11 16:38:21.770]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-11 16:38:21.800]	Already installed "tmux-yank"
+[2025-12-11 16:38:21.811]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-11 16:38:21.830]	Updating all plugins!
+[2025-12-11 16:38:21.839]	
+[2025-12-11 16:38:22.167]	  "tmux-yank" update fail
+[2025-12-11 16:38:22.176]	    | Already up to date.
+[2025-12-11 16:38:22.184]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-11 16:38:22.195]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-11 16:38:22.222]	Done.
+
+[2025-12-12 07:04:04.863]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-12 07:04:04.872]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-12 07:04:04.908]	Already installed "tmux-yank"
+[2025-12-12 07:04:04.922]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-12 07:04:04.949]	Updating all plugins!
+[2025-12-12 07:04:04.960]	
+[2025-12-12 07:04:05.307]	  "tmux-yank" update fail
+[2025-12-12 07:04:05.317]	    | Already up to date.
+[2025-12-12 07:04:05.328]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-12 07:04:05.342]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-12 07:04:05.376]	Done.
+
+[2025-12-12 20:26:33.026]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-12 20:26:33.042]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-12 20:26:33.084]	Already installed "tmux-yank"
+[2025-12-12 20:26:33.098]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-12 20:26:33.123]	Updating all plugins!
+[2025-12-12 20:26:33.137]	
+[2025-12-12 20:26:33.468]	  "tmux-yank" update fail
+[2025-12-12 20:26:33.477]	    | Already up to date.
+[2025-12-12 20:26:33.486]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-12 20:26:33.495]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-12 20:26:33.523]	Done.
+
+[2025-12-13 18:12:34.507]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-13 18:12:34.521]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-13 18:12:34.556]	Already installed "tmux-yank"
+[2025-12-13 18:12:34.568]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-13 18:12:34.588]	Updating all plugins!
+[2025-12-13 18:12:34.599]	
+[2025-12-13 18:12:36.831]	  "tmux-yank" update fail
+[2025-12-13 18:12:36.841]	    | Already up to date.
+[2025-12-13 18:12:36.850]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-13 18:12:36.859]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-13 18:12:36.889]	Done.
+
+[2025-12-14 21:02:57.794]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-14 21:02:57.803]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-14 21:02:57.834]	Already installed "tmux-yank"
+[2025-12-14 21:02:57.844]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-14 21:02:57.862]	Updating all plugins!
+[2025-12-14 21:02:57.871]	
+[2025-12-14 21:02:58.214]	  "tmux-yank" update fail
+[2025-12-14 21:02:58.227]	    | Already up to date.
+[2025-12-14 21:02:58.240]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-14 21:02:58.251]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-14 21:02:58.285]	Done.
+
+[2025-12-15 19:14:50.034]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-15 19:14:50.043]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-15 19:14:50.073]	Already installed "tmux-yank"
+[2025-12-15 19:14:50.082]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-15 19:14:50.100]	Updating all plugins!
+[2025-12-15 19:14:50.111]	
+[2025-12-15 19:14:50.447]	  "tmux-yank" update fail
+[2025-12-15 19:14:50.457]	    | Already up to date.
+[2025-12-15 19:14:50.466]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-15 19:14:50.475]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-15 19:14:50.503]	Done.
+
+[2025-12-15 19:15:19.287]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-15 19:15:19.296]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-15 19:15:19.328]	Already installed "tmux-yank"
+[2025-12-15 19:15:19.337]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-15 19:15:19.357]	Updating all plugins!
+[2025-12-15 19:15:19.366]	
+[2025-12-15 19:15:19.697]	  "tmux-yank" update fail
+[2025-12-15 19:15:19.705]	    | Already up to date.
+[2025-12-15 19:15:19.714]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-15 19:15:19.723]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-15 19:15:19.752]	Done.
+
+[2025-12-16 19:53:04.715]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-16 19:53:04.724]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-16 19:53:04.754]	Already installed "tmux-yank"
+[2025-12-16 19:53:04.764]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-16 19:53:04.782]	Updating all plugins!
+[2025-12-16 19:53:04.791]	
+[2025-12-16 19:53:05.125]	  "tmux-yank" update fail
+[2025-12-16 19:53:05.133]	    | Already up to date.
+[2025-12-16 19:53:05.141]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-16 19:53:05.150]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-16 19:53:05.177]	Done.
+
+[2025-12-16 23:21:07.892]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-16 23:21:07.904]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-16 23:21:07.942]	Already installed "tmux-yank"
+[2025-12-16 23:21:07.953]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-16 23:21:07.974]	Updating all plugins!
+[2025-12-16 23:21:07.984]	
+[2025-12-16 23:21:08.299]	  "tmux-yank" update fail
+[2025-12-16 23:21:08.308]	    | Already up to date.
+[2025-12-16 23:21:08.318]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-16 23:21:08.328]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-16 23:21:08.356]	Done.
+
+[2025-12-17 11:14:53.679]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-17 11:14:53.688]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-17 11:14:53.721]	Already installed "tmux-yank"
+[2025-12-17 11:14:53.730]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-17 11:14:53.749]	Updating all plugins!
+[2025-12-17 11:14:53.758]	
+[2025-12-17 11:14:54.080]	  "tmux-yank" update fail
+[2025-12-17 11:14:54.088]	    | Already up to date.
+[2025-12-17 11:14:54.097]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-17 11:14:54.106]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-17 11:14:54.134]	Done.
+
+[2025-12-17 23:18:40.471]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-17 23:18:40.482]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-17 23:18:40.512]	Already installed "tmux-yank"
+[2025-12-17 23:18:40.521]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-17 23:18:40.540]	Updating all plugins!
+[2025-12-17 23:18:40.549]	
+[2025-12-17 23:18:40.882]	  "tmux-yank" update fail
+[2025-12-17 23:18:40.891]	    | Already up to date.
+[2025-12-17 23:18:40.900]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-17 23:18:40.909]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-17 23:18:40.937]	Done.
+
+[2025-12-19 00:34:11.097]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-19 00:34:11.106]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-19 00:34:11.137]	Already installed "tmux-yank"
+[2025-12-19 00:34:11.147]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-19 00:34:11.165]	Updating all plugins!
+[2025-12-19 00:34:11.174]	
+[2025-12-19 00:34:11.514]	  "tmux-yank" update fail
+[2025-12-19 00:34:11.527]	    | Already up to date.
+[2025-12-19 00:34:11.539]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-19 00:34:11.552]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-19 00:34:11.586]	Done.
+
+[2025-12-21 04:09:26.771]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-21 04:09:26.780]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-21 04:09:26.812]	Already installed "tmux-yank"
+[2025-12-21 04:09:26.823]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-21 04:09:26.842]	Updating all plugins!
+[2025-12-21 04:09:26.851]	
+[2025-12-21 04:09:27.181]	  "tmux-yank" update fail
+[2025-12-21 04:09:27.191]	    | Already up to date.
+[2025-12-21 04:09:27.205]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-21 04:09:27.217]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-21 04:09:27.256]	Done.
+
+[2025-12-21 07:14:50.022]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-21 07:14:50.032]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-21 07:14:50.064]	Already installed "tmux-yank"
+[2025-12-21 07:14:50.074]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-21 07:14:50.093]	Updating all plugins!
+[2025-12-21 07:14:50.104]	
+[2025-12-21 07:14:50.438]	  "tmux-yank" update fail
+[2025-12-21 07:14:50.451]	    | Already up to date.
+[2025-12-21 07:14:50.465]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-21 07:14:50.476]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-21 07:14:50.508]	Done.
+
+[2025-12-21 09:30:24.412]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-21 09:30:24.424]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-21 09:30:24.463]	Already installed "tmux-yank"
+[2025-12-21 09:30:24.474]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-21 09:30:24.497]	Updating all plugins!
+[2025-12-21 09:30:24.509]	
+[2025-12-21 09:30:24.842]	  "tmux-yank" update fail
+[2025-12-21 09:30:24.855]	    | Already up to date.
+[2025-12-21 09:30:24.868]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-21 09:30:24.880]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-21 09:30:24.921]	Done.
+
+[2025-12-21 09:41:35.888]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-21 09:41:35.899]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-21 09:41:35.944]	Already installed "tmux-yank"
+[2025-12-21 09:41:35.957]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-21 09:41:35.986]	Updating all plugins!
+[2025-12-21 09:41:36.005]	
+[2025-12-21 09:41:36.325]	  "tmux-yank" update fail
+[2025-12-21 09:41:36.336]	    | Already up to date.
+[2025-12-21 09:41:36.355]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-21 09:41:36.369]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-21 09:41:36.400]	Done.
+
+[2025-12-21 11:22:02.406]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-21 11:22:02.415]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-21 11:22:02.445]	Already installed "tmux-yank"
+[2025-12-21 11:22:02.454]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-21 11:22:02.472]	Updating all plugins!
+[2025-12-21 11:22:02.481]	
+[2025-12-21 11:22:02.818]	  "tmux-yank" update fail
+[2025-12-21 11:22:02.830]	    | Already up to date.
+[2025-12-21 11:22:02.839]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-21 11:22:02.848]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-21 11:22:02.876]	Done.
+
+[2025-12-22 03:55:13.768]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-22 03:55:13.777]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-22 03:55:13.810]	Already installed "tmux-yank"
+[2025-12-22 03:55:13.819]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-22 03:55:13.838]	Updating all plugins!
+[2025-12-22 03:55:13.848]	
+[2025-12-22 03:55:14.164]	  "tmux-yank" update fail
+[2025-12-22 03:55:14.173]	    | Already up to date.
+[2025-12-22 03:55:14.181]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-22 03:55:14.191]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-22 03:55:14.221]	Done.
+
+[2025-12-22 03:59:42.610]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-22 03:59:42.620]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-22 03:59:42.650]	Already installed "tmux-yank"
+[2025-12-22 03:59:42.661]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-22 03:59:42.683]	Updating all plugins!
+[2025-12-22 03:59:42.692]	
+[2025-12-22 03:59:43.016]	  "tmux-yank" update fail
+[2025-12-22 03:59:43.026]	    | Already up to date.
+[2025-12-22 03:59:43.035]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-22 03:59:43.044]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-22 03:59:43.074]	Done.
+
+[2025-12-22 09:34:47.551]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-22 09:34:47.562]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-22 09:34:47.595]	Already installed "tmux-yank"
+[2025-12-22 09:34:47.605]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-22 09:34:47.628]	Updating all plugins!
+[2025-12-22 09:34:47.643]	
+[2025-12-22 09:34:47.989]	  "tmux-yank" update fail
+[2025-12-22 09:34:48.000]	    | Already up to date.
+[2025-12-22 09:34:48.010]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-22 09:34:48.021]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-22 09:34:48.054]	Done.
+
+[2025-12-22 09:39:43.028]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-22 09:39:43.038]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-22 09:39:43.071]	Already installed "tmux-yank"
+[2025-12-22 09:39:43.081]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-22 09:39:43.105]	Updating all plugins!
+[2025-12-22 09:39:43.117]	
+[2025-12-22 09:39:43.435]	  "tmux-yank" update fail
+[2025-12-22 09:39:43.444]	    | Already up to date.
+[2025-12-22 09:39:43.454]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-22 09:39:43.467]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-22 09:39:43.498]	Done.
+
+[2025-12-22 09:45:42.136]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-22 09:45:42.145]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-22 09:45:42.176]	Already installed "tmux-yank"
+[2025-12-22 09:45:42.185]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-22 09:45:42.205]	Updating all plugins!
+[2025-12-22 09:45:42.214]	
+[2025-12-22 09:45:42.560]	  "tmux-yank" update fail
+[2025-12-22 09:45:42.569]	    | Already up to date.
+[2025-12-22 09:45:42.578]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-22 09:45:42.587]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-22 09:45:42.616]	Done.
+
+[2025-12-22 18:46:30.336]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-22 18:46:30.346]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-22 18:46:30.378]	Already installed "tmux-yank"
+[2025-12-22 18:46:30.388]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-22 18:46:30.408]	Updating all plugins!
+[2025-12-22 18:46:30.418]	
+[2025-12-22 18:46:30.779]	  "tmux-yank" update fail
+[2025-12-22 18:46:30.789]	    | Already up to date.
+[2025-12-22 18:46:30.800]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-22 18:46:30.809]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-22 18:46:30.844]	Done.
+
+[2025-12-23 07:13:26.540]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-23 07:13:26.549]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-23 07:13:26.579]	Already installed "tmux-yank"
+[2025-12-23 07:13:26.588]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-23 07:13:26.606]	Updating all plugins!
+[2025-12-23 07:13:26.614]	
+[2025-12-23 07:13:26.949]	  "tmux-yank" update fail
+[2025-12-23 07:13:26.964]	    | Already up to date.
+[2025-12-23 07:13:26.974]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-23 07:13:26.984]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-23 07:13:27.013]	Done.
+
+[2025-12-24 09:16:47.962]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-24 09:16:47.972]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-24 09:16:48.002]	Already installed "tmux-yank"
+[2025-12-24 09:16:48.011]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-24 09:16:48.030]	Updating all plugins!
+[2025-12-24 09:16:48.039]	
+[2025-12-24 09:16:48.377]	  "tmux-yank" update fail
+[2025-12-24 09:16:48.386]	    | Already up to date.
+[2025-12-24 09:16:48.398]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-24 09:16:48.407]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-24 09:16:48.441]	Done.
+
+[2025-12-25 10:14:02.065]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-25 10:14:02.074]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-25 10:14:02.104]	Already installed "tmux-yank"
+[2025-12-25 10:14:02.113]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-25 10:14:02.131]	Updating all plugins!
+[2025-12-25 10:14:02.139]	
+[2025-12-25 10:14:02.475]	  "tmux-yank" update fail
+[2025-12-25 10:14:02.483]	    | Already up to date.
+[2025-12-25 10:14:02.491]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-25 10:14:02.500]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-25 10:14:02.526]	Done.
+
+[2025-12-26 11:18:35.691]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-26 11:18:35.701]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-26 11:18:35.731]	Already installed "tmux-yank"
+[2025-12-26 11:18:35.740]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-26 11:18:35.758]	Updating all plugins!
+[2025-12-26 11:18:35.766]	
+[2025-12-26 11:18:36.079]	  "tmux-yank" update fail
+[2025-12-26 11:18:36.088]	    | Already up to date.
+[2025-12-26 11:18:36.096]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-26 11:18:36.105]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-26 11:18:36.132]	Done.
+
+[2025-12-27 11:40:51.421]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-27 11:40:51.434]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-27 11:40:51.483]	Already installed "tmux-yank"
+[2025-12-27 11:40:51.501]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-27 11:40:51.528]	Updating all plugins!
+[2025-12-27 11:40:51.539]	
+[2025-12-27 11:40:51.896]	  "tmux-yank" update fail
+[2025-12-27 11:40:51.908]	    | Already up to date.
+[2025-12-27 11:40:51.919]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-27 11:40:51.930]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-27 11:40:51.963]	Done.
+
+[2025-12-28 11:05:55.223]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-28 11:05:55.232]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-28 11:05:55.263]	Already installed "tmux-yank"
+[2025-12-28 11:05:55.272]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-28 11:05:55.291]	Updating all plugins!
+[2025-12-28 11:05:55.300]	
+[2025-12-28 11:05:55.633]	  "tmux-yank" update fail
+[2025-12-28 11:05:55.642]	    | Already up to date.
+[2025-12-28 11:05:55.650]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-28 11:05:55.659]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-28 11:05:55.687]	Done.
+
+[2025-12-29 10:47:33.244]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-29 10:47:33.253]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-29 10:47:33.283]	Already installed "tmux-yank"
+[2025-12-29 10:47:33.292]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-29 10:47:33.311]	Updating all plugins!
+[2025-12-29 10:47:33.320]	
+[2025-12-29 10:47:33.646]	  "tmux-yank" update fail
+[2025-12-29 10:47:33.654]	    | Already up to date.
+[2025-12-29 10:47:33.662]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-29 10:47:33.671]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-29 10:47:33.700]	Done.
+
+[2025-12-30 13:43:32.401]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-30 13:43:32.410]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-30 13:43:32.440]	Already installed "tmux-yank"
+[2025-12-30 13:43:32.449]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-30 13:43:32.469]	Updating all plugins!
+[2025-12-30 13:43:32.477]	
+[2025-12-30 13:43:32.809]	  "tmux-yank" update fail
+[2025-12-30 13:43:32.820]	    | Already up to date.
+[2025-12-30 13:43:32.832]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-30 13:43:32.844]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-30 13:43:32.880]	Done.
+
+[2025-12-30 23:55:52.177]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-30 23:55:52.186]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-30 23:55:52.219]	Already installed "tmux-yank"
+[2025-12-30 23:55:52.229]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-30 23:55:52.248]	Updating all plugins!
+[2025-12-30 23:55:52.257]	
+[2025-12-30 23:55:52.604]	  "tmux-yank" update fail
+[2025-12-30 23:55:52.627]	    | Already up to date.
+[2025-12-30 23:55:52.639]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-30 23:55:52.652]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-30 23:55:52.687]	Done.
+
+[2025-12-31 10:47:50.444]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-31 10:47:50.453]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-31 10:47:50.482]	Already installed "tmux-yank"
+[2025-12-31 10:47:50.491]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-31 10:47:50.508]	Updating all plugins!
+[2025-12-31 10:47:50.516]	
+[2025-12-31 10:47:50.848]	  "tmux-yank" update fail
+[2025-12-31 10:47:50.856]	    | Already up to date.
+[2025-12-31 10:47:50.864]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-31 10:47:50.873]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-31 10:47:50.899]	Done.
+
+[2025-12-31 11:18:28.216]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-31 11:18:28.226]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-31 11:18:28.255]	Already installed "tmux-yank"
+[2025-12-31 11:18:28.264]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-31 11:18:28.284]	Updating all plugins!
+[2025-12-31 11:18:28.292]	
+[2025-12-31 11:18:28.627]	  "tmux-yank" update fail
+[2025-12-31 11:18:28.639]	    | Already up to date.
+[2025-12-31 11:18:28.651]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-31 11:18:28.662]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-31 11:18:28.710]	Done.
+
+[2025-12-31 14:17:05.054]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-31 14:17:05.068]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-31 14:17:05.117]	Already installed "tmux-yank"
+[2025-12-31 14:17:05.134]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-31 14:17:05.170]	Updating all plugins!
+[2025-12-31 14:17:05.181]	
+[2025-12-31 14:17:05.529]	  "tmux-yank" update fail
+[2025-12-31 14:17:05.540]	    | Already up to date.
+[2025-12-31 14:17:05.551]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-31 14:17:05.561]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-31 14:17:05.592]	Done.
+
+[2025-12-31 14:44:53.758]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-31 14:44:53.770]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-31 14:44:53.807]	Already installed "tmux-yank"
+[2025-12-31 14:44:53.819]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-31 14:44:53.840]	Updating all plugins!
+[2025-12-31 14:44:53.850]	
+[2025-12-31 14:44:54.196]	  "tmux-yank" update fail
+[2025-12-31 14:44:54.206]	    | Already up to date.
+[2025-12-31 14:44:54.215]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-31 14:44:54.224]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-31 14:44:54.252]	Done.
+
+[2025-12-31 14:45:56.964]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-31 14:45:56.973]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-31 14:45:57.004]	Already installed "tmux-yank"
+[2025-12-31 14:45:57.014]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-31 14:45:57.032]	Updating all plugins!
+[2025-12-31 14:45:57.042]	
+[2025-12-31 14:45:57.372]	  "tmux-yank" update fail
+[2025-12-31 14:45:57.381]	    | Already up to date.
+[2025-12-31 14:45:57.391]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-31 14:45:57.400]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-31 14:45:57.430]	Done.
+
+[2025-12-31 16:11:10.403]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-31 16:11:10.414]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-31 16:11:10.445]	Already installed "tmux-yank"
+[2025-12-31 16:11:10.454]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-31 16:11:10.473]	Updating all plugins!
+[2025-12-31 16:11:10.482]	
+[2025-12-31 16:11:10.823]	  "tmux-yank" update fail
+[2025-12-31 16:11:10.832]	    | Already up to date.
+[2025-12-31 16:11:10.842]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-31 16:11:10.851]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-31 16:11:10.883]	Done.
+
+[2025-12-31 16:20:00.853]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2025-12-31 16:20:00.862]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-31 16:20:00.895]	Already installed "tmux-yank"
+[2025-12-31 16:20:00.907]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-31 16:20:00.927]	Updating all plugins!
+[2025-12-31 16:20:00.936]	
+[2025-12-31 16:20:01.438]	  "tmux-yank" update fail
+[2025-12-31 16:20:01.447]	    | Already up to date.
+[2025-12-31 16:20:01.456]	    | fatal: No url found for submodule path './' in .gitmodules
+[2025-12-31 16:20:01.467]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-31 16:20:01.497]	Done.
+
+[2026-01-01 12:54:51.554]	List of discovered tpm plugins: tmux-plugins/tmux-yank
+[2026-01-01 12:54:51.564]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/install_plugins
+[2026-01-01 12:54:51.594]	Already installed "tmux-yank"
+[2026-01-01 12:54:51.603]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/update_plugins all
+[2026-01-01 12:54:51.621]	Updating all plugins!
+[2026-01-01 12:54:51.631]	
+[2026-01-01 12:54:51.968]	  "tmux-yank" update fail
+[2026-01-01 12:54:51.983]	    | Already up to date.
+[2026-01-01 12:54:51.995]	    | fatal: No url found for submodule path './' in .gitmodules
+[2026-01-01 12:54:52.005]	Invoking /home/hakim/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2026-01-01 12:54:52.036]	Done.
 
