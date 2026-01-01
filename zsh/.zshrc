@@ -14,7 +14,7 @@ source ~/.config/zshrc.d/shortcuts.zsh      2>/dev/null || true
 # Fastfetch
 # -----------------------------------------------------
 
-fastfetch --config ~/.config/fastfetch/config.jsonc
+# fastfetch --config ~/.config/fastfetch/config.jsonc
 
 
 
